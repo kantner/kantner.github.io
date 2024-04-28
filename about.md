@@ -28,7 +28,7 @@ redirect_from:
 ## Research Interests
 
 <ul>
-	<li>modeling of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)</li>
+	<li>modeling and simulation of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)</li>
 	<li>transport phenomena in semiconductors</li>
 	<li>open quantum systems, semiconductor quantum optics</li>
 	<li>non-equilibrium thermodynamics, physical kinetics and stochastic processes</li>

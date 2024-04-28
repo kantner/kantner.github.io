@@ -80,7 +80,7 @@ legal:
     url:               /workshops
   - title:             Misc
     url:               /misc
-  - title:             Legal Notice
+  - title:             Legal Disclosure
     url:               /legal    
 
 # This text will appear in a `<small>` tag in the footer of every page.

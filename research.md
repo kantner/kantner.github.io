@@ -4,9 +4,13 @@ title: Research
 permalink: /research/
 ---
 
+1. this list will be replaced by the toc
+{:toc}
+
+
 ## Research Interests
 My research interests include
-+ modeling of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)
++ modeling and simulation of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)
 + transport phenomena in semiconductors
 + open quantum systems, semiconductor quantum optics
 + non-equilibrium thermodynamics, physical kinetics and stochastic processes
@@ -28,16 +32,16 @@ Principal investigator (together with U. Bandelow, W. Stannat and H. Wenzel) of 
 
 ## Finished Projects
 
-#### R&amp;D Project SECMSSL
+### R&amp;D Project SECMSSL
 Principal investigator (together with U. Bandelow and M. Radziunas) in R&amp;D project [Simulation of External Cavity and Multi-Section Semiconductor Lasers](https://www.wias-berlin.de/projects/SECMSSL/) funded by the [Ferdinand-Braun Institute](https://www.fbh-berlin.de). Runtime: 01/2021 &ndash; 07/2021.
 
-#### MATH+ AA2-3
+### MATH+ AA2-3
 Post-Doc Researcher in MATH+ project AA2-3 [Quantum-Classical Simulation of Quantum Dot Nanolasers](https://mathplus.de/research-2/application-areas/aa2-nano-quantum-technologies/aa2-3/). Head: U. Bandelow (Weierstrass Institute, Research Group Laser Dynamics).
 
-#### SFB 787 - B4
+### SFB 787 - B4
 PhD Student in project B4 [Multi-Dimensional Modeling and Simulation of Electrically Pumped Semiconductor-Based Emitters](https://www.wias-berlin.de/projects/sfb787-b4/index.jsp) within the Collaborative Research Center CRC 787 *Semiconductor Nanophotonics*.
 Heads: U. Bandelow, A. Mielke, T. Koprucki (Weierstrass Institute, Research Group Laser Dynamics), F. Schmidt (Zuse Institute Berlin, Computational Nano Optics). 
 
-#### SFB 910 - A3
+### SFB 910 - A3
 Research student assistant in project A3 *Emergence and control of spatio-temporal dynamics in systems with delay* within the [Collaborative Research Center CRC 910 *Control of self-organizing nonlinear systems: Theoretical methods and concepts of application*](https://www.tu.berlin/itp/sfb910).
 Head: Serhiy Yanchuk (Department of Mathematics, Applied Analysis, Humboldt University of Berlin).
