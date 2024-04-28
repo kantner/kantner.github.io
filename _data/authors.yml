@@ -26,6 +26,10 @@ author1:
     # twitter:         <username>
     # github:          <username>
     email:           kantner@wias-berlin.de
+    orcid:           0000-0003-4576-3135
+    googlescholar:   ISRqIw0AAAAJ        
+    researchgate:    Markus-Kantner
+    linkedin:        markus-kantner-45415b166
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -54,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        markus-kantner-45415b166
+    # linkedin:        markus-kantner-45415b166
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
