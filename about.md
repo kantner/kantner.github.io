@@ -23,8 +23,7 @@ redirect_from:
 
 <!--author-->
 
-1. this list will be replaced by the toc
-{:toc}
+
 
 
 ## Contact
