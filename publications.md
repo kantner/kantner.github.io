@@ -126,20 +126,20 @@ permalink: /publications/
     U.&nbsp;W.&nbsp;Pohl, A.&nbsp;Strittmatter, A.&nbsp;Schliwa, M.&nbsp;Lehmann, T.&nbsp;Niermann, T.&nbsp;Heindel, S.&nbsp;Reitzenstein, M.&nbsp;Kantner, U.&nbsp;Bandelow, T.&nbsp;Koprucki, H.-J.&nbsp;W&uuml;nsche:
 		<i>Stressor-Induced Site Control of Quantum Dots for Single-Photon Sources.</i>
 		In: <i>Semiconductor Nanophotonics</i>, Chap. 3, pp. 53&ndash;90, 
-		Eds.: M. Kneissl, A. Knorr, S. Reitzenstein and A. Hoffmann, Springer (2020)<br />
+		Eds.: M.&nbsp;Kneissl, A.&nbsp;Knorr, S.&nbsp;Reitzenstein and A.&nbsp;Hoffmann, Springer (2020)<br />
 		<a href="http://dx.doi.org/10.1007/978-3-030-35656-9_3">DOI: 10.1007/978-3-030-35656-9_3</a>
 		</li>
 		<li>
     M.&nbsp;Kantner, T.&nbsp;H&ouml;hne, T.&nbsp;Koprucki, S.&nbsp;Burger, H.-J.&nbsp;W&uuml;nsche, F.&nbsp;Schmidt, A.&nbsp;Mielke and U.&nbsp;Bandelow: 
 		<i>Multi-dimensional modeling and simulation of semiconductor nanophotonic devices.</i>
 		In: <i>Semiconductor Nanophotonics</i>, Chap. 7, pp. 241&ndash;283, 
-		Eds.: M. Kneissl, A. Knorr, S. Reitzenstein and A. Hoffmann, Springer (2020)<br />
+		Eds.: M.&nbsp;Kneissl, A.&nbsp;Knorr, S.&nbsp;Reitzenstein and A.&nbsp;Hoffmann, Springer (2020)<br />
 		<a href="http://dx.doi.org/10.1007/978-3-030-35656-9_7">DOI: 10.1007/978-3-030-35656-9_7</a> (preprint: <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2653">WIAS Preprint 2653</a>)
 		</li>
     <li>S.&nbsp;Rodt, P.-I.&nbsp;Schneider, L.&nbsp;Zschiedrich, T.&nbsp;Heindel, S.&nbsp;Bounouar, M.&nbsp;Kantner, T.&nbsp;Koprucki, U.&nbsp;Bandelow, S.&nbsp;Burger and S.&nbsp;Reitzenstein: 
     <i>Deterministic quantum devices for optical quantum communication.</i>
 		In: <i>Semiconductor Nanophotonics</i>, Chap. 8, pp. 285&ndash;359, 
-		Eds.: M. Kneissl, A. Knorr, S. Reitzenstein and A. Hoffmann, Springer, Cham (2020)<br />
+		Eds.: M.&nbsp;Kneissl, A.&nbsp;Knorr, S.&nbsp;Reitzenstein and A.&nbsp;Hoffmann, Springer, Cham (2020)<br />
 		<a href="http://dx.doi.org/10.1007/978-3-030-35656-9_8">DOI: 10.1007/978-3-030-35656-9_8</a>
 		<br />
     <br />
@@ -263,67 +263,61 @@ permalink: /publications/
 
 
   <li>
-  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche:<br />
-  <i>Simulation of quantum dot devices by coupling of quantum master equations and semi-classical transport theory</i><br />
-  Proc. of the 17th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD), pp. 217&ndash;218<br />
+  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche: Simulation of quantum dot devices by coupling of quantum master equations and semi-classical transport theory.
+  <i>Proc. of the 17th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)</i>, pp. 217&ndash;218,
+  Eds.: J. Piprek, M. Willatzen, 
   Copenhagen, Denmark, 24&ndash;28 July 2017<br />
-  Eds.: J. Piprek, M. Willatzen<br />
   <a href="http://dx.doi.org/10.1109/NUSOD.2017.8010069">DOI: 10.1109/NUSOD.2017.8010069</a>
   </li>
 
-
   <li>
-  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche:<br />
-  <i>Multi-scale modelling and simulation of single-photon sources on a device level</i><br />
-  Proc. of Euro-TMCS II: Theory, Modelling and Computational Methods for Semiconductors, p. 65<br />
-  Cork, Ireland, 7&ndash;9 December 2016<br />
-  Eds.: E. O&rsquo;Reilly, S. Schulz, S. Tomic<br />
+  M.&nbsp;Kantner, U.&nbsp;Bandelow, T.&nbsp;Koprucki and H.-J.&nbsp;W&uuml;nsche:
+  Multi-scale modelling and simulation of single-photon sources on a device level. 
+  <i>Proc. of Euro-TMCS II: Theory, Modelling and Computational Methods for Semiconductors</i>, p. 65, Eds.: E.&nbsp;O&rsquo;Reilly, S.&nbsp;Schulz, S.&nbsp;Tomic,
+  Cork, Ireland, 7&ndash;9 December 2016
   </li>
 
 
 
   <li>
-  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche:<br />
-  <i>Modeling and simulation of injection dynamics for quantum dot based single-photon sources</i><br />
-  Proc. of the 16th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD), pp. 219&ndash;220<br />
+  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche: Modeling and simulation of injection dynamics for quantum dot based single-photon sources.
+  <i>Proc. of the 16th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)</i>, pp. 219&ndash;220,
+  Eds.: J. Piprek, C. Poulton, M. Steel, M. de Sterke,
   Sydney, Australia, 11&ndash;15 July 2016<br />
-  Eds.: J. Piprek, C. Poulton, M. Steel, M. de Sterke<br />
   <a href="http://dx.doi.org/10.1109/NUSOD.2016.7547005">DOI: 10.1109/NUSOD.2016.7547005</a>
   </li>
 
   <li>
-  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche:<br />
-  <i>On Current Injection Into Single Quantum Dots Through Oxide-Confined PN-Diodes</i><br />
-  Proc. of the 16th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD), pp. 215&ndash;216<br />
-  Sydney, Australia, 11&ndash;15 July 2016<br />
-  Eds.: J. Piprek, C. Poulton, M. Steel, M. de Sterke<br />
+  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche: On Current Injection Into Single Quantum Dots Through Oxide-Confined PN-Diodes.
+  <i>Proc. of the 16th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)</i>, pp. 215&ndash;216,
+  Eds.: J. Piprek, C. Poulton, M. Steel, M. de Sterke, Sydney, Australia, 11&ndash;15 July 2016<br />
   <a href="http://dx.doi.org/10.1109/NUSOD.2016.7547002">DOI: 10.1109/NUSOD.2016.7547002</a>
   </li>
 
 
   <li>
-  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche:<br />
-  <i>Modeling and numerical simulation of electrically pumped single-photon emitters</i><br />
-  Proc. of the 15th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD), pp. 151&ndash;152<br />
+  M. Kantner, U. Bandelow, T. Koprucki and H.-J. W&uuml;nsche:
+  Modeling and numerical simulation of electrically pumped single-photon emitters.
+  <i>Proc. of the 15th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)</i>, pp. 151&ndash;152, 
+  Eds.: J. Piprek and Y.-R. Wu,
   Taipei, Taiwan, 7&ndash;11 September 2015<br />
-  Eds.: J. Piprek and Y.-R. Wu<br />
   <a href="http://dx.doi.org/10.1109/NUSOD.2015.7292867">DOI: 10.1109/NUSOD.2015.7292867</a>
   </li>
 
   <li>
-  M. Kantner, U. Bandelow and T. Koprucki:<br />
-  <i>Multi-scale Modeling and Simulation of Single-Photon Sources</i><br />
-  Proc. of the International Nano-Optoelectronics Workshop (iNOW 2015), pp. 129&ndash;130<br />
-  Tokyo, Japan, 3&ndash;7 August 2015<br />
-  Eds.: Y. Arakawa, F. Koyama, C. Chang-Hasnain, D. Bimberg<br />
+  M. Kantner, U. Bandelow and T. Koprucki:
+  Multi-scale Modeling and Simulation of Single-Photon Sources.
+  <i>Proc. of the International Nano-Optoelectronics Workshop</i> (iNOW 2015), pp. 129&ndash;130,
+  Eds.: Y. Arakawa, F. Koyama, C. Chang-Hasnain, D. Bimberg, 
+  Tokyo, Japan, 3&ndash;7 August 2015<br />  
   </li>
 
   <li>
-  T. Koprucki, M. Kantner, J. Fuhrmann and K. G&auml;rtner:<br />
-  <i>On modifications of the Scharfetter-Gummel scheme for drift-diffusion equations with Fermi-like statistical distribution functions</i><br />
-  Proc. of the 14th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD), pp. 155&ndash;156<br />
+  T. Koprucki, M. Kantner, J. Fuhrmann and K. G&auml;rtner: 
+  <i>On modifications of the Scharfetter-Gummel scheme for drift-diffusion equations with Fermi-like statistical distribution functions.
+  <i>Proc. of the 14th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)</i>, pp. 155&ndash;156 
+  Eds.: J. Piprek and J. Javaloyes, 
   Palma de Mallorca, Spain, 1&ndash;4 September 2014<br />
-  Eds.: J. Piprek and J. Javaloyes<br />
   <a href="http://dx.doi.org/10.1109/NUSOD.2014.6935403">DOI: 10.1109/NUSOD.2014.6935403</a>
   </li>
 
