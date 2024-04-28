@@ -6,6 +6,9 @@ title: Presentations
 permalink: /presentations/
 ---
 
+1. this list will be replaced by the toc
+{:toc}
+
 ## Talks
 
    <ul>
