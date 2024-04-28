@@ -13,19 +13,19 @@ author1:
     
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/profile/mkantner.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:            /assets/img/profile/mkantner-256x256.jpg
+      2x:            /assets/img/profile/mkantner-512x512.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    # github:          <username>
+    email:           kantner@wias-berlin.de
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -54,7 +54,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        markus-kantner-45415b166
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
