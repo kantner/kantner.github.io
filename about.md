@@ -9,6 +9,16 @@ redirect_from:
   - /download/
 ---
 
+
+<style type="text/css">
+	td {
+		vertical-align: top;
+	}
+	img.icon-logo {
+		height: 16px;
+	}
+</style>
+
 # About
 
 <!--author-->
@@ -45,6 +55,11 @@ redirect_from:
 		<!--<td></td>-->
 	</tr>
 	<tr>
+		<td>Institutional Website</td>
+		<td><a href="https://www.wias-berlin.de/contact/staff/index.jsp?uname=kantner">WIAS Website</a></td>
+		<!--<td></td>-->
+	</tr>    
+	<tr>
 		<td><img src="assets/img/logos/orcid.svg" class="icon-logo" />&nbsp;ORCID-ID:</td>
 		<td><a href="http://orcid.org/0000-0003-4576-3135">0000-0003-4576-3135</a></td>
 		<!--<td></td>-->
@@ -55,7 +70,7 @@ redirect_from:
 		<!--<td></td>-->
 	</tr>
 	<tr>
-		<td><img src="assets/img/logos/RG.svg" class="icon-logo" />&nbsp;ResearchGate:</td>
+		<td><img src="assets/img/logos/researchgate.svg" class="icon-logo" />&nbsp;ResearchGate:</td>
 		<td><a href="https://www.researchgate.net/profile/Markus_Kantner">ResearchGate Profile</a></td>
 		<!--<td></td>-->
 	</tr>
