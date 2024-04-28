@@ -1,10 +1,10 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/background/taipeh.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Personal Website of Markus Kantner.
 hide_description: true
+cover: true
 redirect_from:
   - /download/
 ---
@@ -24,6 +24,17 @@ redirect_from:
 <!--author-->
 
 
+
+## Research Interests
+
+<ul>
+	<li>modeling of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)</li>
+	<li>transport phenomena in semiconductors</li>
+	<li>open quantum systems, semiconductor quantum optics</li>
+	<li>non-equilibrium thermodynamics, physical kinetics and stochastic processes</li>
+	<li>nonlinear dynamics</li>
+	<li>scientific computing</li>
+</ul>
 
 
 ## Contact
@@ -80,15 +91,3 @@ redirect_from:
 	</tr>
 </table>
 
-
-
-## Research Interests
-
-<ul>
-	<li>modeling of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)</li>
-	<li>transport phenomena in semiconductors</li>
-	<li>open quantum systems, semiconductor quantum optics</li>
-	<li>non-equilibrium thermodynamics, physical kinetics and stochastic processes</li>
-	<li>nonlinear dynamics</li>
-	<li>scientific computing</li>
-</ul>
