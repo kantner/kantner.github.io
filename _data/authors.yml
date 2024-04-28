@@ -2,18 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Markus Kantner
+  email:             kantner@wias-berlin.de
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I'm a Post-Doc Researcher at the [Weierstrass Institute for Applied Analysis and Stochastics (WIAS Berlin)](https://www.wias-berlin.de).
+    I am head of the research focus platform [Simulation of Semiconductor Devices for Quantum Technologies (SemQuTech)](https://www.wias-berlin.de/research/fps/fp2/) and member of the research group [Laser Dynamics](https://www.wias-berlin.de/research/rgs/fg2/).
     
-    Open `_data/authors.yml` to edit this text.
-
   # This photo will be used in the about section
   picture:
     path:            https://via.placeholder.com/128x128
