@@ -1,7 +1,7 @@
 # This file contains meta data for various social media sites
 email:
   name: Email
-  icon: icon-mail
+  icon: icon-envelope_email_icon
   prepend: 'mailto:'
 amazon:
   name: Amazon
@@ -158,7 +158,7 @@ wikipedia:
   icon: icon-wikipedia
 linkedin:
   name: LinkedIn
-  icon: icon-linkedin2
+  icon: icon-linkedin1
   prepend: "https://www.linkedin.com/in/"
 lastfm:
   name: Last.fm
@@ -206,3 +206,17 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+googlescholar:
+  name: Google Scholar
+  icon: icon-googlescholar
+  prepend: "https://scholar.google.com/citations?hl=en&user="
+  append: "&view_op=list_works"
+researchgate:
+  name: ResearchGate
+  icon: icon-researchgate
+  prepend: "https://www.researchgate.net/profile/"
+orcid:
+  name: Orcid
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
+    
