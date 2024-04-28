@@ -26,19 +26,19 @@ permalink: /shortcv/
 	</tr>
 	<tr>
 		<td>since 04/2023</td>
-		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-17 <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-17/"><i>Coherent Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control</i></a> together with T.&nbsp;Breiten (TUB) and T.&nbsp;Koprucki (WIAS)</td>
+		<td>Principal Investigator of the project AA2-17 <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-17/"><i>Coherent Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de">MATH+</a> together with T.&nbsp;Breiten (TUB) and T.&nbsp;Koprucki (WIAS)</td>
 	</tr>
 	<tr>
 		<td>since 01/2022</td>
-		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-13 EXT <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Data-Driven Stochastic Modeling of Semiconductor Lasers</i></a> together with U.&nbsp;Bandelow (WIAS), W.&nbsp;Stannat (TU Berlin) and H.&nbsp;Wenzel (FBH)</td>
+		<td>Principal Investigator of the project AA2-13 EXT <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Data-Driven Stochastic Modeling of Semiconductor Lasers</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de">MATH+</a> together with U.&nbsp;Bandelow (WIAS), W.&nbsp;Stannat (TU Berlin) and H.&nbsp;Wenzel (FBH)</td>
 	</tr>
 	<tr>
 		<td>01/2021 &ndash; 12/2021</td>
-		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-13<sup>&ast;</sup> <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Modeling and Optimization of Semiconductor Lasers for Quantum Metrology Applications</i></a> together with U.&nbsp;Bandelow (WIAS) and H.&nbsp;Wenzel (FBH)</td>        
+		<td>Principal Investigator of the project AA2-13<sup>&ast;</sup> <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Modeling and Optimization of Semiconductor Lasers for Quantum Metrology Applications</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de">MATH+</a> together with U.&nbsp;Bandelow (WIAS) and H.&nbsp;Wenzel (FBH)</td>        
 	</tr>
 	<tr>
 		<td>01/2021 &ndash; 08/2021</td>
-		<td>Principal Investigator in the Research &amp; Development Project <a href="https://www.wias-berlin.de/projects/SECMSSL/">Simulation of External Cavity and Multi-Section Semiconductor Lasers</a> (together with U.&nbsp;Bandelow and M.&nbsp;Radziunas) funded by the <a href="https://www.fbh-berlin.de">Ferdinand-Braun-Institute Berlin</a></td>
+		<td>Principal Investigator of the Research &amp; Development Project <a href="https://www.wias-berlin.de/projects/SECMSSL/">Simulation of External Cavity and Multi-Section Semiconductor Lasers</a> (together with U.&nbsp;Bandelow and M.&nbsp;Radziunas) funded by the <a href="https://www.fbh-berlin.de">Ferdinand-Braun-Institute Berlin</a></td>
 	</tr>
 	<tr>
 		<td>01/2019 &ndash; 12/2020</td>
@@ -47,11 +47,11 @@ permalink: /shortcv/
 	</tr>
 	<tr>
 		<td>12/2013 &ndash; 12/2018</td>
-		<td>PhD Student at WIAS (Research Group Laser Dynamics, from 10/2018: Post-Doc researcher) funded by the project B4 <i>Multi-Dimensional Modeling and Simulation of Electrically Pumped Semiconductor-Based Emitters</i> within the Collaborative Research Center <a href="https://www.sfb787.tu-berlin.de/">CRC 787 <i>Semiconductor Nanophotonics</i></a> (Heads: U.&nbsp;Bandelow, S.&nbsp;Burger, A.&nbsp;Mielke, T.&nbsp;Koprucki)</td>
+		<td>PhD Student at WIAS (Research Group Laser Dynamics, from 10/2018: Post-Doc researcher) funded by the project B4 <i><a href="https://www.wias-berlin.de/projects/sfb787-b4">Multi-Dimensional Modeling and Simulation of Electrically Pumped Semiconductor-Based Emitters</a></i> within the Collaborative Research Center CRC 787 <i>Semiconductor Nanophotonics</i></a> (Heads: U.&nbsp;Bandelow, S.&nbsp;Burger, A.&nbsp;Mielke, T.&nbsp;Koprucki)</td>
 	</tr>
 	<tr>
 		<td>01/2010 &ndash; 11/2013</td>
-		<td>Student Research Assistant at Humboldt-University Berlin (Institute of Mathematics, Applied Analysis) funded by the project A3 <i>Emergence and control of spatio-temporal dynamics in systems with delay</i> within the Collaborative Research Center <a href="https://www.itp.tu-berlin.de/sfb910/">CRC 910 <i>Control of self-organizing nonlinear systems</i></a> (Head: S.&nbsp;Yanchuk)</td>
+		<td>Student Research Assistant at Humboldt-University Berlin (Institute of Mathematics, Applied Analysis) funded by the project A3 <i>Emergence and control of spatio-temporal dynamics in systems with delay</i> within the Collaborative Research Center <a href="https://www.tu.berlin/itp/sfb910">CRC 910 <i>Control of self-organizing nonlinear systems</i></a> (Head: S.&nbsp;Yanchuk)</td>
 	</tr>
 </table>
 
