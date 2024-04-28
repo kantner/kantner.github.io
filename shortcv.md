@@ -47,11 +47,11 @@ permalink: /shortcv/
 	</tr>
 	<tr>
 		<td>12/2013 &ndash; 12/2018</td>
-		<td>PhD Student at WIAS (Research Group Laser Dynamics, from 10/2018: Post-Doc researcher) funded by the project B4 <i><a href="https://www.wias-berlin.de/projects/sfb787-b4">Multi-Dimensional Modeling and Simulation of Electrically Pumped Semiconductor-Based Emitters</a></i> within the Collaborative Research Center CRC 787 <i>Semiconductor Nanophotonics</i></a> (Heads: U.&nbsp;Bandelow, S.&nbsp;Burger, A.&nbsp;Mielke, T.&nbsp;Koprucki)</td>
+		<td>PhD Student at WIAS (Research Group Laser Dynamics, from 10/2018: Post-Doc researcher) funded by the project B4 <i><a href="https://www.wias-berlin.de/projects/sfb787-b4">Multi-Dimensional Modeling and Simulation of Electrically Pumped Semiconductor-Based Emitters</a></i> within the Collaborative Research Center CRC 787 <i>Semiconductor Nanophotonics</i> (Heads: U.&nbsp;Bandelow, S.&nbsp;Burger, A.&nbsp;Mielke, T.&nbsp;Koprucki)</td>
 	</tr>
 	<tr>
 		<td>01/2010 &ndash; 11/2013</td>
-		<td>Student Research Assistant at Humboldt-University Berlin (Institute of Mathematics, Applied Analysis) funded by the project A3 <i>Emergence and control of spatio-temporal dynamics in systems with delay</i> within the Collaborative Research Center <a href="https://www.tu.berlin/itp/sfb910">CRC 910 <i>Control of self-organizing nonlinear systems</i></a> (Head: S.&nbsp;Yanchuk)</td>
+		<td>Student Research Assistant at Humboldt-University Berlin (Institute of Mathematics, Applied Analysis) funded by the project A3 <i>Emergence and control of spatio-temporal dynamics in systems with delay</i> within the Collaborative Research Center <a href="https://www.tu.berlin/itp/sfb910">CRC 910 <i>Control of Self-Organizing Nonlinear Systems</i></a> (Head: S.&nbsp;Yanchuk)</td>
 	</tr>
 </table>
 
@@ -64,7 +64,7 @@ permalink: /shortcv/
 		<td width="180px">09/2018</td>
 		<td>Dr. rer. nat. (Theoretical Physics)<br />
 			Technical University Berlin<br />
-			Thesis: <a href="http://dx.doi.org/10.14279/depositonce-7516">&ldquo;Modeling and simulation of electrically driven quantum dot based single-photon sources &mdash; From classical device physics to open quantum systems&rdquo;</a><br />
+			Thesis: <a href="http://dx.doi.org/10.14279/depositonce-7516"><i>Modeling and simulation of electrically driven quantum dot based single-photon sources &mdash; From classical device physics to open quantum systems</i></a><br />
             Advisors: A.&nbsp;Knorr, U.&nbsp;Bandelow<br />
 			Grade: <i>summa cum laude</i>
 		</td>
@@ -75,7 +75,7 @@ permalink: /shortcv/
 		<td>11/2013</td>
 		<td>Master of Science (Physics)<br />
 			Humboldt-University Berlin<br />
-			Thesis: &ldquo;Patterns in regular networks of delay-coupled neurons&rdquo;<br />
+			Thesis: <i>Patterns in regular networks of delay-coupled neurons</i><br />
             Advisor: S.&nbsp;Yanchuk</td>
 		<!--<td style="text-align: center; vertical-align: middle;"><img src="logos/hu_berlin.svg" height="60px" /></td>-->
 	</tr>
@@ -83,7 +83,7 @@ permalink: /shortcv/
 		<td>10/2010</td>
 		<td>Bachelor of Science (Physics, Mathematics)<br />
 			Humboldt-University Berlin<br />
-			Thesis: &ldquo;Subthreshold oscillations and hysteresis in a neuronal model&rdquo;<br />
+			Thesis: <i>Subthreshold oscillations and hysteresis in a neuronal model</i><br />
             Advisor: M.&nbsp;Zaks</td>
 		<!--<td style="text-align: center; vertical-align: middle;"><img src="logos/hu_berlin.svg" height="60px" /></td>-->
 	</tr>

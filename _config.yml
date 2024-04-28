@@ -66,12 +66,22 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             About
+    url:               /about
+  - title:             Short CV
+    url:               /shortcv
+  - title:             Research
+    url:               /research
+  - title:             Publications
+    url:               /publications
+  - title:             Presentations
+    url:               /presentations
+  - title:             Workshops
+    url:               /workshops
+  - title:             Misc
+    url:               /misc
+  - title:             Legal Notice
+    url:               /legal    
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.

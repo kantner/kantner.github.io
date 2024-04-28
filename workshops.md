@@ -21,6 +21,9 @@ I have (co-)organized a number of scientific workshops and events.
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop/">Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies</a><br />
   with P.&nbsp;Gel&szlig;, T.&nbsp;Breiten and C.&nbsp;P.&nbsp;Koch<br />
   Free University of Berlin and Zuse Institute Berlin, 21&ndash;24 May 2024
+  <br />
+  <br />
+  <a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop"><img src="/assets/img/workshops/poster-QOC.png" alt="Workshop Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies" width="500px"/></a>
   </li>
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/">Thematic Einstein Semester: Mathematics for Quantum Technologies</a><br />
   with U.&nbsp;Bandelow, F.&nbsp;Binkowski, S.&nbsp;Burger, J.&nbsp;Eisert, P.&nbsp;Gel&szlig;, A.&nbsp;Pappa, C.&nbsp;P.&nbsp;Koch, T.&nbsp;Koprucki and N.&nbsp;Walk<br />
