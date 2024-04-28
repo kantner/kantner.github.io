@@ -23,13 +23,13 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    #twitter:         <username>
-    #github:          kantner
-    email:           kantner@wias-berlin.de
-    orcid:           0000-0003-4576-3135
-    googlescholar:   ISRqIw0AAAAJ        
-    researchgate:    Markus-Kantner
-    linkedin:        markus-kantner-45415b166
+    # twitter:         <username>
+    # github:          kantner
+    email:            kantner@wias-berlin.de
+    orcid:            0000-0003-4576-3135
+    googlescholar:    ISRqIw0AAAAJ        
+    researchgate:     Markus-Kantner
+    linkedin:         markus-kantner-45415b166
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
