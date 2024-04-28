@@ -6,6 +6,9 @@ title: Publications
 permalink: /publications/
 ---
 
+1. this list will be replaced by the toc
+{:toc}
+
 ## Journal Articles
 
 <ul>
@@ -116,7 +119,7 @@ permalink: /publications/
     <a href="http://dx.doi.org/10.1007/978-3-030-39543-8">DOI: 10.1007/978-3-030-39543-8</a>
     <br />
     <br />
-    <p><a href="https://www.springer.com/gp/book/9783030395421"><img height="260px" src="/assets/img/books//9783030395421_low.jpg" width="250px"></a></p>
+    <p><a href="https://www.springer.com/gp/book/9783030395421"><img height="260px" src="/assets/img/books/spinger-theses.png" width="250px"></a></p>
     <br />
 		</li>
 		<li>
@@ -140,7 +143,7 @@ permalink: /publications/
 		<a href="http://dx.doi.org/10.1007/978-3-030-35656-9_8">DOI: 10.1007/978-3-030-35656-9_8</a>
 		<br />
     <br />
-		<p><a href="http://dx.doi.org/10.1007/978-3-030-35656-9"><img height="260px" src="/assets/img/books/spinger-semiconductor_nanophotonics.jpg" width="250px"></a></p>
+		<p><a href="http://dx.doi.org/10.1007/978-3-030-35656-9"><img height="260px" src="/assets/img/books/spinger-semiconductor_nanophotonics.png" width="250px"></a></p>
     </li>
     <li>
     P.&nbsp;Farrell, N.&nbsp;Rotundo, D.&nbsp;H.&nbsp;Doan, M.&nbsp;Kantner, J.&nbsp;Fuhrmann and T.&nbsp;Koprucki: 

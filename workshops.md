@@ -6,6 +6,9 @@ title: Organization of Workshops
 permalink: /workshops/
 ---
 
+1. this list will be replaced by the toc
+{:toc}
+
 I have (co-)organized a number of scientific workshops and events.
 
 ## Upcoming Events
@@ -24,7 +27,7 @@ I have (co-)organized a number of scientific workshops and events.
   Cluster of Excellence MATH+ and Einstein Foundation Berlin, Summer Semester 2024
   <br />
   <br />
-  <a href="https://mathplus.de/topic-development-lab/tes-summer-2024/"><img src="/assets/img/TES-banner.png" alt="Thematic Einstein Semester: Mathematics for Quantum Technologies" width="500px"/></a>
+  <a href="https://mathplus.de/topic-development-lab/tes-summer-2024/"><img src="/assets/img/workshops/TES-banner.png" alt="Thematic Einstein Semester: Mathematics for Quantum Technologies" width="500px"/></a>
   </li>
 </ul>
 
