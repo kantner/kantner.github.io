@@ -4,8 +4,15 @@ title: Short CV
 permalink: /shortcv/
 ---
 
+<style type="text/css">
+	td {
+		vertical-align: top;
+	}
+</style>
 
 
+1. this list will be replaced by the toc
+{:toc}
 
 
 
@@ -14,61 +21,32 @@ permalink: /shortcv/
 
 <table width="100%">
 	<tr>
-		<td width="150px">since 04/2023</td>
-		<td>Head of the WIAS Focus-Platform <a href="https://www.wias-berlin.de/research/fps/fp2"><i>Simulation of
-					Semiconductor Devices for Quantum Technologies</i> (SemQuTech)</a> together with T. Koprucki (WIAS)
-		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img alt="WIAS" src="assets/img/logos/wias.svg"
-				height="32" /></td>-->
+		<td width="180px">since 04/2023</td>
+		<td>Head of the WIAS Focus-Platform <a href="https://www.wias-berlin.de/research/fps/fp2"><i>Simulation of Semiconductor Devices for Quantum Technologies</i> (SemQuTech)</a> together with T.&nbsp;Koprucki (WIAS)</td>
 	</tr>
 	<tr>
-		<td width="120px">since 04/2023</td>
-		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-17 <a
-				href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-17/"><i>Coherent
-					Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control</i></a>
-			together with T. Breiten (TUB) and T. Koprucki (WIAS)
-		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img alt="MATH+" src="assets/img/logos/mathplus.svg"
-				height="32" /></td>-->
+		<td>since 04/2023</td>
+		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-17 <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-17/"><i>Coherent Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control</i></a> together with T.&nbsp;Breiten (TUB) and T.&nbsp;Koprucki (WIAS)</td>
 	</tr>
 	<tr>
-		<td width="120px">since 01/2022</td>
-		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-13 EXT <a
-				href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Data-Driven
-					Stochastic Modeling of Semiconductor Lasers</i></a>
-			together with U. Bandelow (WIAS), W. Stannat (TU Berlin) and H. Wenzel (FBH)
-		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img alt="MATH+" src="logos/mathplus.svg"
-				height="25px" /></td>-->
+		<td>since 01/2022</td>
+		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-13 EXT <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Data-Driven Stochastic Modeling of Semiconductor Lasers</i></a> together with U.&nbsp;Bandelow (WIAS), W.&nbsp;Stannat (TU Berlin) and H.&nbsp;Wenzel (FBH)</td>
 	</tr>
 	<tr>
 		<td width="120px">01/2021 &ndash; 12/2021</td>
-		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-13<sup>&ast;</sup> <a
-				href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Modeling
-					and Optimization of Semiconductor Lasers for Quantum Metrology Applications</i></a>
-			together with U. Bandelow (WIAS) and H. Wenzel (FBH)
-		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img alt="MATH+" src="logos/mathplus.svg"
-				height="25px" /></td>-->
+		<td>Principal Investigator in the <a href="http://www.mathplus.de">MATH+</a> Project AA2-13<sup>&ast;</sup> <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/"><i>Modeling and Optimization of Semiconductor Lasers for Quantum Metrology Applications</i></a> together with U.&nbsp;Bandelow (WIAS) and H.&nbsp;Wenzel (FBH)</td>        
 	</tr>
 	<tr>
 		<td width="120px">01/2021 &ndash; 08/2021</td>
-		<td>Research &amp; Development Project <a href="https://www.wias-berlin.de/projects/SECMSSL/">Simulation of
-				External Cavity and Multi-Section Semiconductor Lasers</a> (together with U. Bandelow and M. Radziunas)
-			funded by the <a href="https://www.fbh-berlin.de">Ferdinand-Braun-Institute Berlin</a> (until 07/2021).
-			<!--Modeling and computation of optical spectra of laser diodes. Extension of the software package LDSL-tool towards laser linewidth calculations.-->
+		<td>Research &amp; Development Project <a href="https://www.wias-berlin.de/projects/SECMSSL/">Simulation of External Cavity and Multi-Section Semiconductor Lasers</a> (together with U.&nbsp;Bandelow and M.&nbsp;Radziunas) funded by the <a href="https://www.fbh-berlin.de">Ferdinand-Braun-Institute Berlin</a>
 		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img alt="WIAS-FBH R&D Project"
-				src="logos/wias-fbh-rd.svg" height="50px" /></td>-->
 	</tr>
 	<tr>
 		<td width="120px">01/2019 &ndash; 12/2020</td>
 		<td>Post-Doc Reseacher at WIAS (Research Group Laser Dynamics)<br />
 			Funded by project AA2-3 <i>Quantum-classical simulation of quantum dot nanolasers</i> within the cluster of
-			excellence <a href="http://www.mathplus.de">MATH+</a> (Head: U. Bandelow)
+			excellence <a href="http://www.mathplus.de">MATH+</a> (Head: U.&nbsp;Bandelow)
 		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img alt="MATH+" src="logos/mathplus.svg"
-				height="25px" /></td>-->
 	</tr>
 	<tr>
 		<td>12/2013 &ndash; 12/2018</td>
@@ -77,8 +55,6 @@ permalink: /shortcv/
 				Emitters</i> within <a href="https://www.sfb787.tu-berlin.de/">CRC 787 <i>Semiconductor
 					Nanophotonics</i></a> (Heads: U. Bandelow, S. Burger, A. Mielke T. Koprucki) <br />
 		</td>
-		<!--<td style="text-align: center; vertical-align: middle;"><img alt="SFB787" src="logos/sfb787-small.svg"
-				height="69px" /></td>-->
 	</tr>
 	<tr>
 		<td>01/2010 &ndash; 11/2013</td>
@@ -87,9 +63,6 @@ permalink: /shortcv/
 			the <a href="https://www.itp.tu-berlin.de/sfb910/">CRC 910 <i>Control of self-organizing nonlinear
 					systems</i></a> (Head: S. Yanchuk).		
 		</td>
-		<!--<td style="text-align: center; vertical-align: middle;"><img alt="SFB910" src="logos/sfb910.png"
-				height="65px" /></td>
-		</td>-->
 	</tr>
 </table>
 
