@@ -31,7 +31,7 @@ redirect_from:
 
 <table width="100%">
 	<tr>
-		<td width="150px">Address:</td>
+		<td width="180px">Address:</td>
 		<td>Weierstrass Institute for Applied Analysis and Stochastics<br />
 			Mohrenstr. 39<br />
 			10117 Berlin<br>
