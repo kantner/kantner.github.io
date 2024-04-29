@@ -20,6 +20,6 @@ Mohrenstr. 39<br />
 Germany
 
 ## Contact
-[kantner(-)at)wias-berlin.de](mailto:kantner-at-wias-berlin.de)<br />
+[kantner(at)wias-berlin.de](mailto:kantner-at-wias-berlin.de)<br />
 +49 (30) 20372-504<br />
 [www.wias-berlin.de/people/kantner/](https://www.wias-berlin.de/people/kantner/)

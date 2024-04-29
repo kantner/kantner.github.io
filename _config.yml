@@ -108,7 +108,8 @@ remote_theme: hydecorp/hydejack@v9
 # Sidebar image and theme color of the site.
 #accent_image:          /assets/img/background/bluemountains.jpg
 #accent_image:          /assets/img/background/bromo.jpg
-accent_image:          /assets/img/background/taipeh.jpg
+accent_image:          /assets/img/background/kingscanyon.jpg
+#accent_image:          /assets/img/background/taipeh.jpg
 accent_color:          rgb(0,93,168)
 
 # This is used for the `theme-color` meta tag,
