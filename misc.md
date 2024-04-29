@@ -13,12 +13,49 @@ permalink: /misc
 
 ## Software
 
-## Reviewer
+<table>
+	<tr>
+		<td><a href="http://doi.org/10.20347/WIAS.SOFTWARE.14" target="_blank">ddfermi</a></td>
+		<td>Drift-diffusion software for the simulation of carrier transport in semiconductor devices. Based on WIAS-pdelib.</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/leoluecken/oddtool/" target="_blank">ODD-Tool</a></td>
+		<td>Numerical integration of delay-differential equations with multiple and/or delays.</td>
+	</tr>
+</table>
+
+
+## Science Communication
+
+* Participation in the Leibniz Association's [Book a Scientist](https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist) event. Overview lecture on the basics of mathematical modeling of epidemics (with focus on COVID-19) for high school students (March 2021).
+* Contribution to the book [Erfolgsformeln](https://erfolgsformeln.uni-wuppertal.de/) (Eds.: W. Schilders, M. Günther, M. Ehrhardt) on optimal control of epidemics for high school students interested in mathematics (September 2021).
+* Long Night of the Sciences (Lange Nacht der Wissenschaften): Mathematical modeling and simulation of optoelectronic devices (information booth of the Weierstrass Institute/ Leibniz Association, June 2018).
+
+## Reviewer for Scientific Journals
+
+* Physical Review Letters
+* Physical Review E
+* Optics Letters
+* Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
+* Springer Journal of Computational Electronics
+* Springer Applied Physics B: Lasers & Optics
+* Springer Optical and Quantum Electronics
+* MDPI Applied Sciences
 
 ## Genealogy
 
+To Do.
+
+
 ## Research Visits
+
+* UNSW Sydney (February 2024, Hosts: Sven Rogge and Susan Coppersmith)
+* TU Eindhoven (April 2023, Host: Oliver Tse)
+
 
 ## Memberships
 
-
+* Member of the German Physical Society (Deutsche Physikalische Gesellschaft)
+* Member of the Leibniz PhD network (2016 – 2018)
+* Member of the School of Nanophotonics (SFB 787 Graduate School, 2013 – 2018)
+* PhD-representative of the WIAS (2016 – 2018) and co-organizer of the WIAS PhD-Seminar

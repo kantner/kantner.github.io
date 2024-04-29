@@ -10,15 +10,15 @@ permalink: /legal/
 	}
 </style>
 
-Mandatory information according to § 5 TMG Telemedia
+Mandatory information according to § 5 TMG Telemedia.
 
-## Address
-Markus Kantner<br />
+### Address
+Dr. Markus Kantner<br />
 Mohrenstr. 39<br />
 10117 Berlin<br />
 Germany
 
-## Contact
+### Contact
 
 E-Mail: [kantner(at)wias-berlin.de](mailto:kantner-at-wias-berlin.de)<br />
 Phone: +49 (30) 20372-504<br />
