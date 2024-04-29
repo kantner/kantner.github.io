@@ -10,6 +10,9 @@ permalink: /misc
 	}
 </style>
 
+1. this list will be replaced by the toc
+{:toc}
+
 
 ## Software
 
@@ -38,11 +41,11 @@ permalink: /misc
 	</tr>
 	<tr>
 		<td>09/2021</td>
-		<td>Contribution to the book <a href="https://erfolgsformeln.uni-wuppertal.de/">Erfolgsformeln</a> (Eds.: W. Schilders, M. Günther, M. Ehrhardt) on optimal control of epidemics for high school students interested in mathematics.</td>
+		<td>Contribution to the book <a href="https://erfolgsformeln.uni-wuppertal.de/" target="_blank">Erfolgsformeln</a> (Eds.: W. Schilders, M. Günther, M. Ehrhardt) on optimal control of epidemics for high school students interested in mathematics.</td>
 	</tr>
 	<tr>
 		<td width="180px">03/2021</td>
-		<td>Participation in the Leibniz Association's <a href="https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist">Book a Scientist</a> event. Overview lecture on the basics of mathematical modeling of epidemics (with focus on COVID-19) for high school students.</td>
+		<td>Participation in the Leibniz Association's <a href="https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist" target="_blank">Book a Scientist</a> event. Overview lecture on the basics of mathematical modeling of epidemics (with focus on COVID-19) for high school students.</td>
 	</tr>	
 	<tr>
 		<td>06/2018</td>
@@ -63,10 +66,6 @@ permalink: /misc
 * Springer Optical and Quantum Electronics
 * MDPI Applied Sciences
 
-## Genealogy
-
-To Do
-
 
 ## Research Visits
 
@@ -80,3 +79,7 @@ To Do
 * Member of the Leibniz PhD network (2016 &ndash; 2018)
 * Member of the School of Nanophotonics (SFB 787 Graduate School, 2013 &ndash; 2018)
 * PhD-representative of the WIAS (2016 &ndash; 2018) and co-organizer of the WIAS PhD-Seminar
+
+## Academic Genealogy
+
+To Do
