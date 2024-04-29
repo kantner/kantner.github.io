@@ -22,6 +22,6 @@ Germany
 
 E-Mail: [kantner(at)wias-berlin.de](mailto:kantner-at-wias-berlin.de)<br />
 Phone: +49 (30) 20372-504<br />
-Web: [www.wias-berlin.de/people/kantner/](https://www.wias-berlin.de/people)
+Web: [https://www.wias-berlin.de/~kantner](https://www.wias-berlin.de/~kantner)
 
 
