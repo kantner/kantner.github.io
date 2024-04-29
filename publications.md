@@ -314,7 +314,7 @@ permalink: /publications/
 
   <li>
   T. Koprucki, M. Kantner, J. Fuhrmann and K. G&auml;rtner: 
-  <i>On modifications of the Scharfetter-Gummel scheme for drift-diffusion equations with Fermi-like statistical distribution functions.
+  On modifications of the Scharfetter-Gummel scheme for drift-diffusion equations with Fermi-like statistical distribution functions.
   <i>Proc. of the 14th International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)</i>, pp. 155&ndash;156 
   Eds.: J. Piprek and J. Javaloyes, 
   Palma de Mallorca, Spain, 1&ndash;4 September 2014<br />

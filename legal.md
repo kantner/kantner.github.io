@@ -12,7 +12,6 @@ permalink: /legal/
 
 
 Disclosures per § 5 TMG:
-Angaben gemäß § 5 TMG:
 
 ## Address
 Markus Kantner<br />
