@@ -20,11 +20,11 @@ permalink: /misc
 	</tr>
 	<tr>
 		<td width="180px"><a href="http://doi.org/10.20347/WIAS.SOFTWARE.14" target="_blank">ddfermi</a></td>
-		<td>Drift-diffusion software for the simulation of carrier transport in semiconductor devices. Based on WIAS-pdelib.</td>
+		<td>Drift-diffusion software for the simulation of carrier transport in semiconductor devices. Based on WIAS-pdelib (C++/Python).</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/leoluecken/oddtool/" target="_blank">ODD-Tool</a></td>
-		<td>Numerical integration of delay-differential equations with multiple and/or delays.</td>
+		<td>Numerical integration of delay-differential equations with multiple and/or delays (C++).</td>
 	</tr>
 </table>
 
@@ -37,22 +37,20 @@ permalink: /misc
 		<td><b>Activity</b></td>
 	</tr>
 	<tr>
-		<td width="180px">03/2021</td>
-		<td>Participation in the Leibniz Association's [Book a Scientist](https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist) event. Overview lecture on the basics of mathematical modeling of epidemics (with focus on COVID-19) for high school students.</td>
+		<td>09/2021</td>
+		<td>Contribution to the book <a href="https://erfolgsformeln.uni-wuppertal.de/">Erfolgsformeln</a> (Eds.: W. Schilders, M. Günther, M. Ehrhardt) on optimal control of epidemics for high school students interested in mathematics.</td>
 	</tr>
 	<tr>
-		<td>09/2021</td>
-		<td>Contribution to the book [Erfolgsformeln](https://erfolgsformeln.uni-wuppertal.de/) (Eds.: W. Schilders, M. Günther, M. Ehrhardt) on optimal control of epidemics for high school students interested in mathematics.</td>
-	</tr>
+		<td width="180px">03/2021</td>
+		<td>Participation in the Leibniz Association's <a href="https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist">Book a Scientist</a> event. Overview lecture on the basics of mathematical modeling of epidemics (with focus on COVID-19) for high school students.</td>
+	</tr>	
 	<tr>
 		<td>06/2018</td>
 		<td>Long Night of the Sciences (Lange Nacht der Wissenschaften): Mathematical modeling and simulation of optoelectronic devices (information booth of the Weierstrass Institute/ Leibniz Association).</td>
 	</tr>	
 </table>
 
-* Participation in the Leibniz Association's [Book a Scientist](https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist) event. Overview lecture on the basics of mathematical modeling of epidemics (with focus on COVID-19) for high school students (March 2021).
-* Contribution to the book [Erfolgsformeln](https://erfolgsformeln.uni-wuppertal.de/) (Eds.: W. Schilders, M. Günther, M. Ehrhardt) on optimal control of epidemics for high school students interested in mathematics (September 2021).
-* Long Night of the Sciences (Lange Nacht der Wissenschaften): Mathematical modeling and simulation of optoelectronic devices (information booth of the Weierstrass Institute/ Leibniz Association, June 2018).
+
 
 ## Reviewer for Scientific Journals
 
