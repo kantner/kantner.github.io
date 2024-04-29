@@ -21,7 +21,11 @@ permalink: /shortcv/
 
 <table width="100%">
 	<tr>
-		<td width="180px">since 04/2023</td>
+		<td width="180px"><b>Date</b></td>
+		<td><b>Position</b></td>
+	</tr>
+	<tr>
+		<td>since 04/2023</td>
 		<td>Head of the WIAS Focus-Platform <a href="https://www.wias-berlin.de/research/fps/fp2"><i>Simulation of Semiconductor Devices for Quantum Technologies</i> (SemQuTech)</a> together with T.&nbsp;Koprucki (WIAS)</td>
 	</tr>
 	<tr>
@@ -61,7 +65,11 @@ permalink: /shortcv/
 
 <table width="100%">
 	<tr>
-		<td width="180px">09/2018</td>
+		<td width="180px"><b>Date</b></td>
+		<td><b>Degree</b></td>
+	</tr>
+	<tr>
+		<td>09/2018</td>
 		<td>Dr. rer. nat. (Theoretical Physics)<br />
 			Technical University Berlin<br />
 			Thesis: <a href="http://dx.doi.org/10.14279/depositonce-7516"><i>Modeling and simulation of electrically driven quantum dot based single-photon sources &mdash; From classical device physics to open quantum systems</i></a><br />
