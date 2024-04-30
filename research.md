@@ -9,10 +9,10 @@ permalink: /research/
 
 
 ## Research Interests
-My research interests include
 + modeling and simulation of semiconductor devices (spin-qubit devices, semiconductor lasers, quantum light sources etc.)
 + transport phenomena in semiconductors
 + open quantum systems, semiconductor quantum optics
++ optimal control
 + non-equilibrium thermodynamics, physical kinetics and stochastic processes
 + nonlinear dynamics
 + scientific computing

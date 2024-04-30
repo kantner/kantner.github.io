@@ -9,7 +9,6 @@ permalink: /workshops/
 1. this list will be replaced by the toc
 {:toc}
 
-I have (co-)organized a number of scientific workshops and events.
 
 ## Upcoming Events
 
