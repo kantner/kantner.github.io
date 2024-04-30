@@ -247,16 +247,19 @@ permalink: /presentations/
 
 <ul>
   <li>
+  <i>Optimal Control of a SiGe-Quantum Bus for Coherent Electron Shuttling in Scalable Quantum Computing Architectures</i><br />
+  SiQEW 2023<br />
+  Kyoto International Conference Center, Kyoto (JP), 31 October 2023<br />
+  </li>
+  <li>
   <i>Modeling of Quantum Light Emitting Diodes</i><br />
   MATH+ Day 2019<br />
   Urania, Berlin (DE), 13 December 2019<br />
-  <a href="poster/MATH_PLUS_Day_2019_AA2-3.pdf">Poster</a>
   </li>
   <li>
   <i>Modeling and simulation of electrically driven quantum light sources</i><br />
   Nonlinear Optics and Excitation Kinetics in Semiconductors (NOEKS 14)<br />
   Technical University Berlin (DE), 23&ndash;27 September 2018<br />
-  <a href="poster/NOEKS14.pdf">Poster</a>
   </li>
   <li>
   <i>Multi-scale Modeling and Simulation of Single-Photon Sources</i><br />
