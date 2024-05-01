@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 342.1 75.4">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20.8px;
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #000100;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: GillSansMT, 'Gill Sans MT';
+      }
+
+      .cls-4 {
+        stroke: #e41715;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 3.2px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-7, .cls-2, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #000100;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-6 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-3 {
+        font-size: 37.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="42.3" y1="37.7" x2="53.2" y2="18.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e2f0e5"/>
+      <stop offset="1" stop-color="#59865e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.6" y1="37.7" x2="42.3" y2="37.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9f5f5e"/>
+      <stop offset="1" stop-color="#ecdada"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="53.2" y1="56.5" x2="42.3" y2="37.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5f859f"/>
+      <stop offset="1" stop-color="#cfd9e0"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-7" points="85.8 37.7 20.6 0 42.3 37.7 85.8 37.7"/>
+  <polygon class="cls-8" points="42.3 37.7 20.6 0 20.6 75.4 42.3 37.7"/>
+  <polygon class="cls-9" points="85.8 37.7 20.6 75.4 42.3 37.7 85.8 37.7"/>
+  <text class="cls-3" transform="translate(83.9 74.5)"><tspan x="0" y="0">SFB 787 </tspan></text>
+  <text class="cls-1" transform="translate(83.9 26.6)"><tspan x="0" y="0">Semiconductor Nanophotonics</tspan></text>
+  <path class="cls-4" d="M85.8,37.7"/>
+  <path class="cls-4" d="M22.1,37.7"/>
+  <path class="cls-5" d="M0,37.7h22.1"/>
+  <line class="cls-6" x1="42.3" y1="37.7" x2="85.8" y2="37.7"/>
+  <line class="cls-6" x1="42.3" y1="37.7" x2="22.1" y2="72.7"/>
+  <path class="cls-5" d="M81.8,37.7h141.6c8.7,0,7.7,5.9,9.9,18.4,1.9,10.9,2,17.5,3.5,17.5s2.2-13,2.8-17.9c1.7-14.9,1.1-17.9,8.2-17.9,19.9,0,94.3,0,94.3,0"/>
+  <path class="cls-2" d="M23.7,5.5l55.8,32.2-55.8,32.2V5.5M20.6,0v75.4l65.3-37.7L20.6,0h0Z"/>
+  <line class="cls-6" x1="22.1" y1="2.7" x2="42.3" y2="37.7"/>
+</svg>
