@@ -108,26 +108,27 @@ accent_image: /assets/img/background/bromo.jpg
 			Technical University Berlin<br />
 			Thesis: <a href="http://dx.doi.org/10.14279/depositonce-7516"><i>Modeling and simulation of electrically driven quantum dot based single-photon sources &mdash; From classical device physics to open quantum systems</i></a><br />
             Advisors: A.&nbsp;Knorr, U.&nbsp;Bandelow<br />
-			Grade: <i>summa cum laude</i>
-		</td>
-		<!--<td width="120px" style="text-align: center; vertical-align: middle;"><img src="logos/tu_berlin.svg"
-				height="52px" /></td>-->
+			Grade: <i>summa cum laude</i><br />
+			<img src="/assets/img/logos/tu_berlin.svg" class="logo"/>
+		</td>		
 	</tr>
 	<tr>
 		<td>11/2013</td>
 		<td>Master of Science (Physics)<br />
 			Humboldt-University Berlin<br />
 			Thesis: <i>Patterns in regular networks of delay-coupled neurons</i><br />
-            Advisor: S.&nbsp;Yanchuk</td>
-		<!--<td style="text-align: center; vertical-align: middle;"><img src="logos/hu_berlin.svg" height="60px" /></td>-->
+            Advisor: S.&nbsp;Yanchuk<br />
+			<img src="/assets/img/logos/hu_berlin.svg" class="logo"/>
+		</td>
 	</tr>
 	<tr>
 		<td>10/2010</td>
 		<td>Bachelor of Science (Physics, Mathematics)<br />
 			Humboldt-University Berlin<br />
 			Thesis: <i>Subthreshold oscillations and hysteresis in a neuronal model</i><br />
-            Advisor: M.&nbsp;Zaks</td>
-		<!--<td style="text-align: center; vertical-align: middle;"><img src="logos/hu_berlin.svg" height="60px" /></td>-->
+            Advisor: M.&nbsp;Zaks<br />
+			<img src="/assets/img/logos/hu_berlin.svg" class="logo"/>
+		</td>
 	</tr>
 </table>
 
