@@ -10,9 +10,9 @@ accent_image: /assets/img/background/bromo.jpg
 		vertical-align: top;
 	}
 	img.logo {
-		height: 48px;
-		padding-top: 10px;
-		margin-right: 10px;
+		height: 42px;
+		padding-top: 20px;
+		margin-right: 20px;
 	}
 </style>
 
@@ -38,7 +38,7 @@ accent_image: /assets/img/background/bromo.jpg
 	</tr>
 	<tr>
 		<td>since 04/2023</td>
-		<td>Principal Investigator of the project AA2-17 <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-17/"><i>Coherent Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de">MATH+</a> together with T.&nbsp;Breiten (TUB) and T.&nbsp;Koprucki (WIAS)<br />
+		<td>Principal Investigator of the project AA2-17 <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-17/"><i>Coherent Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de">MATH+</a> together with T.&nbsp;Breiten (TU Berlin) and T.&nbsp;Koprucki (WIAS)<br />
 		<img src="/assets/img/logos/mathplus.svg" class="logo"/>
 		<img src="/assets/img/logos/wias.svg" class="logo"/>
 		<img src="/assets/img/logos/tu_berlin.svg" class="logo"/>
