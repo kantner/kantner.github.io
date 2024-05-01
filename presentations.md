@@ -4,7 +4,7 @@
 layout: page
 title: Presentations
 permalink: /presentations/
-image: /assets/img/background/bluemountains.jpg
+accent_image: /assets/img/background/bluemountains.jpg
 ---
 
 1. this list will be replaced by the toc
