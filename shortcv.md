@@ -10,7 +10,7 @@ accent_image: /assets/img/background/bromo.jpg
 		vertical-align: top;
 	}
 	img.logo {
-		height: 42px;
+		height: 46px;
 		padding-top: 20px;
 		margin-right: 20px;
 	}
