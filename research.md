@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+accent_image: /assets/img/background/taipeh.jpg
 ---
 
 1. this list will be replaced by the toc

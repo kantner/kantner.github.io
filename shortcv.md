@@ -2,6 +2,7 @@
 layout: page
 title: Short CV
 permalink: /shortcv/
+accent_image: /assets/img/background/bromo.jpg
 ---
 
 <style type="text/css">
