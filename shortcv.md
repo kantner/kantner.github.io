@@ -11,8 +11,9 @@ accent_image: /assets/img/background/bromo.jpg
 	}
 	img.logo {
 		height: 64px;
-		padding-top: 20px;
+		margin-top: 20px;
 		margin-right: 20px;
+		margin-bottom: 10px;
 	}
 </style>
 
