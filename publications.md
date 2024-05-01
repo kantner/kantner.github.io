@@ -4,6 +4,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+accent_image: /assets/img/background/grandcanyon.jpg
 ---
 
 1. this list will be replaced by the toc
