@@ -32,7 +32,7 @@ accent_image: /assets/img/background/bromo.jpg
 	<tr>
 		<td>since 04/2023</td>
 		<td>Head of the WIAS Focus-Platform <a href="https://www.wias-berlin.de/research/fps/fp2"><i>Simulation of Semiconductor Devices for Quantum Technologies</i> (SemQuTech)</a> together with T.&nbsp;Koprucki (WIAS)<br />
-		<img src="assets/img/logos/wias.svg" class="logo"/></td>
+		<img src="/assets/img/logos/wias.svg" class="logo"/></td>
 	</tr>
 	<tr>
 		<td>since 04/2023</td>
