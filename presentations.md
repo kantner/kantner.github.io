@@ -4,6 +4,7 @@
 layout: page
 title: Presentations
 permalink: /presentations/
+image: /assets/img/background/bluemountains.jpg
 ---
 
 1. this list will be replaced by the toc
@@ -248,7 +249,7 @@ permalink: /presentations/
 <ul>
   <li>
   <i>Optimal Control of a SiGe-Quantum Bus for Coherent Electron Shuttling in Scalable Quantum Computing Architectures</i><br />
-  SiQEW 2023<br />
+  Silicon Quantum Electronics Workshop (SiQEW 2023)<br />
   Kyoto International Conference Center, Kyoto (JP), 31 October 2023<br />
   </li>
   <li>
