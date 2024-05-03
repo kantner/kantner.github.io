@@ -66,27 +66,27 @@ redirect_from:
 	</tr>
 	<tr>
 		<td>Institutional Website</td>
-		<td><a href="https://www.wias-berlin.de/contact/staff/index.jsp?uname=kantner">WIAS Website</a></td>
+		<td><a href="https://www.wias-berlin.de/contact/staff/index.jsp?uname=kantner" target="_blank">WIAS Website</a></td>
 		<!--<td></td>-->
 	</tr>    
 	<tr>
 		<td><img src="assets/img/logos/orcid.svg" class="icon-logo" />&nbsp;ORCID-ID:</td>
-		<td><a href="http://orcid.org/0000-0003-4576-3135">0000-0003-4576-3135</a></td>
+		<td><a href="http://orcid.org/0000-0003-4576-3135" target="_blank">0000-0003-4576-3135</a></td>
 		<!--<td></td>-->
 	</tr>
 	<tr>
 		<td><img src="assets/img/logos/google-scholar.svg" class="icon-logo" />&nbsp;Google Scholar:</td>
-		<td><a href="https://scholar.google.com/citations?hl=de&user=ISRqIw0AAAAJ">Google Scholar Profile</a></td>
+		<td><a href="https://scholar.google.com/citations?hl=de&user=ISRqIw0AAAAJ" target="_blank">Google Scholar Profile</a></td>
 		<!--<td></td>-->
 	</tr>
 	<tr>
 		<td><img src="assets/img/logos/researchgate.svg" class="icon-logo" />&nbsp;ResearchGate:</td>
-		<td><a href="https://www.researchgate.net/profile/Markus_Kantner">ResearchGate Profile</a></td>
+		<td><a href="https://www.researchgate.net/profile/Markus_Kantner" target="_blank">ResearchGate Profile</a></td>
 		<!--<td></td>-->
 	</tr>
 	<tr>
 		<td><img src="assets/img/logos/Linkedin-logo.svg" class="icon-logo" />&nbsp;LinkedIn:</td>
-		<td><a href="https://www.linkedin.com/in/markus-kantner-45415b166/">LinkedIn Profile</a></td>
+		<td><a href="https://www.linkedin.com/in/markus-kantner-45415b166/" target="_blank">LinkedIn Profile</a></td>
 		<!--<td></td>-->
 	</tr>
 </table>

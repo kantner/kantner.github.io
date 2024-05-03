@@ -17,13 +17,13 @@ accent_image: /assets/img/background/grandcanyon.jpg
     L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
     Frequency Noise Characterization of Narrow-Linewidth Lasers: A Bayesian Approach.
     <i>IEEE Photonics Journal</i> <b>16</b>(3), 1&ndash;7 (2024)<br />              
-    <a href="http://dx.doi.org/10.1109/JPHOT.2024.3385184">DOI: 10.1109/JPHOT.2024.3385184</a> (open access)<br >
+    <a href="http://dx.doi.org/10.1109/JPHOT.2024.3385184" target="_blank">DOI: 10.1109/JPHOT.2024.3385184</a> (open access)<br >
     </li>    
     <li>
     L.&nbsp;Ermoneit, B.&nbsp;Schmidt, T.&nbsp;Koprucki, J.&nbsp;Fuhrmann, T.&nbsp;Breiten, A.&nbsp;Sala, N.&nbsp;Ciroth, R.&nbsp;Xue, L.&nbsp;R.&nbsp;Schreiber and M.&nbsp;Kantner: 
     Optimal Control of Conveyor-Mode Spin-Qubit Shuttling in a Si/SiGe Quantum Bus in the Presence of Charged Defects.
     <i>WIAS Preprint</i> <b>3082</b> (2023)<br />
-    <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.3082">DOI: 10.20347/WIAS.PREPRINT.3082</a>
+    <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.3082" target="_blank">DOI: 10.20347/WIAS.PREPRINT.3082</a>
     </li>
     <li>
     L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
@@ -31,80 +31,80 @@ accent_image: /assets/img/background/grandcanyon.jpg
     In: <i>Advances in Nonlinear Dynamics and Control of Mechanical and Physical Systems</i>,
     Ed.: M. Belhaq.
     Springer Proceedings in Physics, Vol. 301, pp. 269&ndash;279, Springer, Singapore (2023)<br/>
-    <a href="https://doi.org/10.1007/978-981-99-7958-5_21">DOI: 10.1007/978-981-99-7958-5_21</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2305.07380">DOI: 10.48550/arXiv.2305.07380</a>)
+    <a href="https://doi.org/10.1007/978-981-99-7958-5_21" target="_blank">DOI: 10.1007/978-981-99-7958-5_21</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2305.07380" target="_blank">DOI: 10.48550/arXiv.2305.07380</a>)
     </li>
     <li>
     M.&nbsp;Kantner and L.&nbsp;Mertensk&ouml;tter: 
     Accurate evaluation of self-heterodyne laser linewidth measurements using Wiener filters.
     <i>Opt. Express</i> <b>31</b>, 15994&ndash;16009 (2023)<br />
-    <a href="http://dx.doi.org/10.1364/OE.485866">DOI: 10.1364/OE.485866</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2301.10645">DOI: 10.48550/arXiv.2301.10645</a>)
+    <a href="http://dx.doi.org/10.1364/OE.485866" target="_blank">DOI: 10.1364/OE.485866</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2301.10645" target="_blank">DOI: 10.48550/arXiv.2301.10645</a>)
     </li>
     <li>
     M.&nbsp;Heida, M.&nbsp;Kantner and A.&nbsp;Stephan: 
     Consistency and convergence for a family of finite volume discretizations of the Fokker&ndash;Planck operator.
     <i>ESIAM: M2AN</i> <b>55</b>, 3017&ndash;3042 (2021)<br />
-    <a href="http://dx.doi.org/10.1051/m2an/2021078">DOI: 10.1051/m2an/2021078</a> (preprint: <a href="https://arxiv.org/abs/2002.09385">arXiv:2002.09385</a>)
+    <a href="http://dx.doi.org/10.1051/m2an/2021078" target="_blank">DOI: 10.1051/m2an/2021078</a> (preprint: <a href="https://arxiv.org/abs/2002.09385" target="_blank">arXiv:2002.09385</a>)
     </li>
     <li>
     H.&nbsp;Wenzel, M.&nbsp;Kantner, M.&nbsp;Radziunas and U.&nbsp;Bandelow: 
     Semiconductor Laser Linewidth Theory Revisited.
     <i>Appl. Sci.</i> <b>11</b>, 6004 (2021)<br >
-    <a href="http://dx.doi.org/10.3390/app11136004">DOI: 10.3390/app11136004</a> (open access, preprint: <a href="https://arxiv.org/abs/2105.00535">arxiv.org/2105.00535</a>)
+    <a href="http://dx.doi.org/10.3390/app11136004" target="_blank">DOI: 10.3390/app11136004</a> (open access, preprint: <a href="https://arxiv.org/abs/2105.00535" target="_blank">arxiv.org/2105.00535</a>)
     </li>
     <li>
     M.&nbsp;Kantner, T.&nbsp;Koprucki: 
     Beyond just "flattening the curve": Optimal control of epidemics with purely non-pharmaceutical interventions.
-    <i>J. Math. Industry</i> <b>10</b>, 23 (2020) <i><a href="https://mathematicsinindustry.springeropen.com/mathcovid19-page">[Special Issue on SARS-CoV-2 pandemics]</a></i><br />
-    <a href="http://dx.doi.org/10.1186/s13362-020-00091-3">DOI: 10.1186/s13362-020-00091-3</a> (open access, preprint: <a href="https://arxiv.org/abs/2004.09471">arXiv:2004.09471</a>)
+    <i>J. Math. Industry</i> <b>10</b>, 23 (2020) <i><a href="https://mathematicsinindustry.springeropen.com/mathcovid19-page" target="_blank">[Special Issue on SARS-CoV-2 pandemics]</a></i><br />
+    <a href="http://dx.doi.org/10.1186/s13362-020-00091-3" target="_blank">DOI: 10.1186/s13362-020-00091-3</a> (open access, preprint: <a href="https://arxiv.org/abs/2004.09471" target="_blank">arXiv:2004.09471</a>)
     </li>
     <li>
     M.&nbsp;Kantner and T.&nbsp;Koprucki: 
     <i>Non-isothermal Scharfetter&ndash;Gummel scheme for electro-thermal transport simulation in degenerate semiconductors.</i>
     In: <i>Finite Volumes for Complex Applications IX</i>, Eds.: R. Kl&ouml;fkorn R., E. Keilegavlen, F. Radu and J. Fuhrmann.
     Springer Proceedings in Mathematics &amp; Statistics, Vol. 323, pp. 173&ndash;182, Springer, Cham (2020)<br />
-    <a href="http://dx.doi.org/10.1007/978-3-030-43651-3_14">DOI: 10.1007/978-3-030-43651-3_14</a> (preprint: <a href="https://arxiv.org/abs/2002.10133">arXiv:2002.10133</a>)
+    <a href="http://dx.doi.org/10.1007/978-3-030-43651-3_14" target="_blank">DOI: 10.1007/978-3-030-43651-3_14</a> (preprint: <a href="https://arxiv.org/abs/2002.10133" target="_blank">arXiv:2002.10133</a>)
     </li>
     <li>
     M.&nbsp;Kantner: 
     Generalized Scharfetter&ndash;Gummel schemes for electro-thermal transport in degenerate semiconductors using the Kelvin formula for the Seebeck coefficient.
     <i>J. Comput. Phys.</i> <b>402</b>, 109091 (2020)<br />
-    <a href="http://dx.doi.org/10.1016/j.jcp.2019.109091">DOI: 10.1016/j.jcp.2019.109091</a> (preprint: <a href="http://arxiv.org/abs/1911.00377">arxiv.org/1911.00377</a>)
+    <a href="http://dx.doi.org/10.1016/j.jcp.2019.109091" target="_blank">DOI: 10.1016/j.jcp.2019.109091</a> (preprint: <a href="http://arxiv.org/abs/1911.00377" target="_blank">arxiv.org/1911.00377</a>)
     </li>
     <li>
     M.&nbsp;Kantner, M.&nbsp;Mittnenzweig, A.&nbsp;Mielke and N.&nbsp;Rotundo: 
     <i>Mathematical modeling of semiconductors: From quantum mechanics to devices.</i>
     In: <i>Topics in Applied Analysis and Optimisation: Partial Differential Equations, Stochastic and Numerical Analysis</i>, Eds.: M. Hinterm&uuml;ller and J. Rodrigues, pp. 269&ndash;293, Springer, Cham (2019)<br />
-    <a href="http://dx.doi.org/10.1007/978-3-030-33116-0_11">DOI: 10.1007/978-3-030-33116-0_11</a> (preprint: <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2575">WIAS Preprint 2575</a>)
+    <a href="http://dx.doi.org/10.1007/978-3-030-33116-0_11" target="_blank">DOI: 10.1007/978-3-030-33116-0_11</a> (preprint: <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2575" target="_blank">WIAS Preprint 2575</a>)
     </li>
     <li>
     M.&nbsp;Kantner, M.&nbsp;Mittnenzweig and T.&nbsp;Koprucki: 
     Hybrid quantum-classical modeling of quantum dot devices.
     <i>Phys. Rev. B</i> <b>96</b>, 205301 (2017)<br />
-    <a href="http://dx.doi.org/10.1103/PhysRevB.96.205301">DOI: 10.1103/PhysRevB.96.205301</a> (preprint: <a href="https://arxiv.org/abs/1709.10481">arXiv:1709.10481</a>)
+    <a href="http://dx.doi.org/10.1103/PhysRevB.96.205301" target="_blank">DOI: 10.1103/PhysRevB.96.205301</a> (preprint: <a href="https://arxiv.org/abs/1709.10481" target="_blank">arXiv:1709.10481</a>)
     </li>
     <li>
     M.&nbsp;Kantner and T.&nbsp;Koprucki: 
     Numerical simulation of carrier transport in semiconductor devices at cryogenic temperatures.
     <i>Opt. Quant. Electron.</i> <b>48</b>, 543 (2016)<br />
-    <a href="http://dx.doi.org/10.1007/s11082-016-0817-2">DOI: 10.1007/s11082-016-0817-2</a> (preprint: <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2296">WIAS Preprint 2296</a>)
+    <a href="http://dx.doi.org/10.1007/s11082-016-0817-2" target="_blank">DOI: 10.1007/s11082-016-0817-2</a> (preprint: <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2296" target="_blank">WIAS Preprint 2296</a>)
     </li>
     <li>
     M.&nbsp;Kantner, U.&nbsp;Bandelow, T.&nbsp;Koprucki, J.-H.&nbsp;Schulze, A.&nbsp;Strittmatter and H.-J.&nbsp;W&uuml;nsche: 
     Efficient Current Injection Into Single Quantum Dots Through Oxide-Confined PN-Diodes.
     <i>IEEE Trans. Electron Dev.</i> <b>63</b>, 2036&ndash;2042 (2016)<br />
-    <a href="http://dx.doi.org/10.1109/TED.2016.2538561">DOI: 10.1109/TED.2016.2538561</a> (open access, preprint: <a href="http://www.wias-berlin.de/publications/wias-publ/run.jsp?template=abstract&type=Preprint&year=&number=2169">WIAS Preprint 2169</a>)
+    <a href="http://dx.doi.org/10.1109/TED.2016.2538561" target="_blank">DOI: 10.1109/TED.2016.2538561</a> (open access, preprint: <a href="http://www.wias-berlin.de/publications/wias-publ/run.jsp?template=abstract&type=Preprint&year=&number=2169" target="_blank">WIAS Preprint 2169</a>)
     </li>
     <li>
     M.&nbsp;Kantner, E.&nbsp;Sch&ouml;ll and S.&nbsp;Yanchuk: 
     Delay-induced patterns in a two-dimensional lattice of coupled oscillators.
     <i>Sci. Rep.</i> <b>5</b>, 8522 (2015)<br />
-    <a href="http://dx.doi.org/10.1038/srep08522">DOI: 10.1038/srep08522</a> (open access, preprint: <a href="https://arxiv.org/abs/1401.2325">arXiv:1401.2325</a>)
+    <a href="http://dx.doi.org/10.1038/srep08522" target="_blank">DOI: 10.1038/srep08522</a> (open access, preprint: <a href="https://arxiv.org/abs/1401.2325" target="_blank">arXiv:1401.2325</a>)
     </li>
     <li>
     M.&nbsp;Kantner and S.&nbsp;Yanchuk:
     Bifurcation analysis of delay-induced patterns in a ring of Hodgkin&ndash;Huxley neurons.
     <i>Phil. Trans. R. Soc. A</i> <b>371</b>, 20120470 (2013)<br />
-    <a href="http://dx.doi.org/10.1098/rsta.2012.0470">DOI: 10.1098/rsta.2012.0470</a>
+    <a href="http://dx.doi.org/10.1098/rsta.2012.0470" target="_blank">DOI: 10.1098/rsta.2012.0470</a>
     </li>
 </ul>
 
