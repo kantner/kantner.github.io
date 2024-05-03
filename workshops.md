@@ -4,6 +4,7 @@
 layout: page
 title: Organization of Workshops
 permalink: /workshops/
+accent_image: /assets/img/background/bagan.jpg
 ---
 
 1. this list will be replaced by the toc
