@@ -2,7 +2,7 @@
 layout: page
 title: Misc
 permalink: /misc
-accent_image: /assets/img/background/kyoto.jpg
+accent_image: /assets/img/background/sapa.jpg
 ---
 
 <style type="text/css">
