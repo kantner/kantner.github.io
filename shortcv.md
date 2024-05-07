@@ -102,7 +102,7 @@ accent_image: /assets/img/background/bromo.jpg
 	</tr>
 	<tr>
 		<td>01/2010 &ndash; 11/2013</td>
-		<td>Student Research Assistant at Humboldt-University Berlin (Institute of Mathematics, Applied Analysis) funded by the project A3 <i>Emergence and control of spatio-temporal dynamics in systems with delay</i> within the Collaborative Research Center <a href="https://www.tu.berlin/itp/sfb910" target="_blank">CRC 910 <i>Control of Self-Organizing Nonlinear Systems</i></a> (Head: S.&nbsp;Yanchuk)
+		<td>Student Research Assistant at Humboldt-University of Berlin (Institute of Mathematics, Applied Analysis) funded by the project A3 <i>Emergence and control of spatio-temporal dynamics in systems with delay</i> within the Collaborative Research Center <a href="https://www.tu.berlin/itp/sfb910" target="_blank">CRC 910 <i>Control of Self-Organizing Nonlinear Systems</i></a> (Head: S.&nbsp;Yanchuk)
 		<!--<br />
 		<img src="/assets/img/logos/sfb910.png" class="logo"/>
 		<img src="/assets/img/logos/hu_berlin.svg" class="logo"/>
