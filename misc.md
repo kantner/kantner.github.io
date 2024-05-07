@@ -81,6 +81,8 @@ accent_image: /assets/img/background/kyoto.jpg
 * Member of the School of Nanophotonics (SFB 787 Graduate School, 2013 &ndash; 2018)
 * PhD-representative of the WIAS (2016 &ndash; 2018) and co-organizer of the WIAS PhD-Seminar
 
+<!--
 ## Academic Genealogy
 
 To Do
+-->
