@@ -123,7 +123,7 @@ accent_image: /assets/img/background/bromo.jpg
 	<tr>
 		<td>09/2018</td>
 		<td>Dr. rer. nat. (Theoretical Physics)<br />
-			Technical University Berlin<br />
+			Technical University of Berlin<br />
 			Thesis: <a href="http://dx.doi.org/10.14279/depositonce-7516" target="_blank"><i>Modeling and simulation of electrically driven quantum dot based single-photon sources &mdash; From classical device physics to open quantum systems</i></a><br />
             Advisors: A.&nbsp;Knorr, U.&nbsp;Bandelow<br />
 			Grade: <i>summa cum laude</i>
@@ -135,7 +135,7 @@ accent_image: /assets/img/background/bromo.jpg
 	<tr>
 		<td>11/2013</td>
 		<td>Master of Science (Physics)<br />
-			Humboldt-University Berlin<br />
+			Humboldt-University of Berlin<br />
 			Thesis: <i>Patterns in regular networks of delay-coupled neurons</i><br />
             Advisor: S.&nbsp;Yanchuk
 			<!--<br />
@@ -146,7 +146,7 @@ accent_image: /assets/img/background/bromo.jpg
 	<tr>
 		<td>10/2010</td>
 		<td>Bachelor of Science (Physics, Mathematics)<br />
-			Humboldt-University Berlin<br />
+			Humboldt-University of Berlin<br />
 			Thesis: <i>Subthreshold oscillations and hysteresis in a neuronal model</i><br />
             Advisor: M.&nbsp;Zaks
 			<!--<br />
