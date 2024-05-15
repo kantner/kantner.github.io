@@ -16,22 +16,22 @@ accent_image: /assets/img/background/grandcanyon.jpg
     <li>
     L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
     Frequency Noise Characterization of Narrow-Linewidth Lasers: A Bayesian Approach.
-    <i>IEEE Photonics Journal</i> <b>16</b>(3), 1&ndash;7 (2024)<br />              
+    <i>IEEE Photonics Journal</i> <b>16</b>(3), 0601407 (2024)<br />              
     <a href="http://dx.doi.org/10.1109/JPHOT.2024.3385184" target="_blank">DOI: 10.1109/JPHOT.2024.3385184</a> (open access)<br >
-    </li>    
+    </li>  
+    <li>
+    L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
+    <i>Bayesian Estimation of Laser Linewidth From Delayed Self-Heterodyne Measurements.</i>
+    In: <i>Advances in Nonlinear Dynamics and Control of Mechanical and Physical Systems</i>,
+    Ed.: M. Belhaq.
+    Springer Proceedings in Physics, Vol. 301, pp. 269&ndash;279, Springer, Singapore (2024)<br/>
+    <a href="https://doi.org/10.1007/978-981-99-7958-5_21" target="_blank">DOI: 10.1007/978-981-99-7958-5_21</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2305.07380" target="_blank">DOI: 10.48550/arXiv.2305.07380</a>)
+    </li>      
     <li>
     L.&nbsp;Ermoneit, B.&nbsp;Schmidt, T.&nbsp;Koprucki, J.&nbsp;Fuhrmann, T.&nbsp;Breiten, A.&nbsp;Sala, N.&nbsp;Ciroth, R.&nbsp;Xue, L.&nbsp;R.&nbsp;Schreiber and M.&nbsp;Kantner: 
     Optimal Control of Conveyor-Mode Spin-Qubit Shuttling in a Si/SiGe Quantum Bus in the Presence of Charged Defects.
     <i>WIAS Preprint</i> <b>3082</b> (2023)<br />
     <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.3082" target="_blank">DOI: 10.20347/WIAS.PREPRINT.3082</a>
-    </li>
-    <li>
-    L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
-    <i>Bayesian estimation of laser linewidth from delayed self-heterodyne measurements.</i>
-    In: <i>Advances in Nonlinear Dynamics and Control of Mechanical and Physical Systems</i>,
-    Ed.: M. Belhaq.
-    Springer Proceedings in Physics, Vol. 301, pp. 269&ndash;279, Springer, Singapore (2023)<br/>
-    <a href="https://doi.org/10.1007/978-981-99-7958-5_21" target="_blank">DOI: 10.1007/978-981-99-7958-5_21</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2305.07380" target="_blank">DOI: 10.48550/arXiv.2305.07380</a>)
     </li>
     <li>
     M.&nbsp;Kantner and L.&nbsp;Mertensk&ouml;tter: 
