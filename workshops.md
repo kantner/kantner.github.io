@@ -18,13 +18,6 @@ accent_image: /assets/img/background/bagan.jpg
   with P.&nbsp;Farrell, A.&nbsp;Glitzky, M.&nbsp;Liero, M.&nbsp;O'Donovan and J.&nbsp;Weinbub<br />
   Weierstrass Institute Berlin, 10&ndash;13 September 2024
   </li>
-  <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop/">Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies</a><br />
-  with P.&nbsp;Gel&szlig;, T.&nbsp;Breiten and C.&nbsp;P.&nbsp;Koch<br />
-  Free University of Berlin and Zuse Institute Berlin, 21&ndash;24 May 2024
-  <!--<br />
-  <br />
-  <a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop"><img src="/assets/img/workshops/poster-QOC.jpg" alt="Workshop Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies" width="500px"/></a>-->
-  </li>
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/">Thematic Einstein Semester: Mathematics for Quantum Technologies</a><br />
   with U.&nbsp;Bandelow, F.&nbsp;Binkowski, S.&nbsp;Burger, J.&nbsp;Eisert, P.&nbsp;Gel&szlig;, A.&nbsp;Pappa, C.&nbsp;P.&nbsp;Koch, T.&nbsp;Koprucki and N.&nbsp;Walk<br />
   Cluster of Excellence MATH+ and Einstein Foundation Berlin, Summer Semester 2024
@@ -40,6 +33,14 @@ accent_image: /assets/img/background/bagan.jpg
 ## Past Events
 
 <ul>
+
+  <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop/">Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies</a><br />
+  with P.&nbsp;Gel&szlig;, T.&nbsp;Breiten and C.&nbsp;P.&nbsp;Koch<br />
+  Free University of Berlin and Zuse Institute Berlin, 21&ndash;24 May 2024
+  <br />
+  <br />
+  <a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop"><img src="/assets/img/workshops/poster-QOC.jpg" alt="Workshop Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies" width="500px"/></a>
+  </li>
 
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/kick-off-event">Symposium: Quantum Computing in Academia and Industry</a><br />
   with S.&nbsp;Burger, P.&nbsp;Gel&szlig;, T.&nbsp;Koprucki and N.&nbsp;Walk<br />
