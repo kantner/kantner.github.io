@@ -16,7 +16,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
     <li>
     L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
     Frequency Noise Characterization of Narrow-Linewidth Lasers: A Bayesian Approach.
-    <i>IEEE Photonics Journal</i> <b>16</b>(3), 0601407 (2024)<br />              
+    <i>IEEE Photonics J.</i> <b>16</b>(3), 0601407 (2024)<br />              
     <a href="http://dx.doi.org/10.1109/JPHOT.2024.3385184" target="_blank">DOI: 10.1109/JPHOT.2024.3385184</a> (open access)<br >
     </li>  
     <li>
