@@ -39,7 +39,7 @@ accent_image: /assets/img/background/bagan.jpg
   Free University of Berlin and Zuse Institute Berlin, 21&ndash;24 May 2024
   <br />
   <br />
-  Video Recordings of the workshop are available on <a href="https://www.youtube.com/playlist?list=PLMG1in_rYUozabocEiHeUplvuUf1Nm2bs">YouTube</a>.
+  Video recordings of the workshop are available on <a href="https://www.youtube.com/playlist?list=PLMG1in_rYUozabocEiHeUplvuUf1Nm2bs">YouTube</a>.
   <br />
   <br />
   <a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop"><img src="/assets/img/workshops/poster-QOC.jpg" alt="Workshop Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies" width="500px"/></a>
