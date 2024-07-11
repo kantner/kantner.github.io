@@ -16,13 +16,19 @@ accent_image: /assets/img/background/bluemountains.jpg
             <li>
             <i>Conveyor-Mode Electron Shuttling in a Si/SiGe Quantum Bus: Modeling, Simulation, Optimization</i> (invited)<br />
             Focus Workshop on Theory of Spin-Qubit Shuttling<br />
-            RWTH Aachen (DE), 18 September 2024
+            RWTH Aachen (DE), Physikzentrum, 18 September 2024
             </li>
 
             <li>
             <i>Conveyor-Mode Electron Shuttling in a Si/SiGe Quantum Bus: Modeling, Simulation and Optimal Control</i><br />
             Centre for Quantum Computation &amp; Communication Technology (CQC2T)<br />
             UNSW Sydney (AUS), 16 February 2024
+            </li>
+
+            <li>
+            <i>Wiener-Filter Enhanced Estimation of Intrinsic Laser Linewidth From Delayed Self-Heterodyne Beat Note Measurements</i><br />
+            Conference on Lasers and Electro-Optics (CLEO)/Europe - European Quantum Electronics Conference (EQEC) 2023<br />
+            Munich (DE), 26 June 2023
             </li>
 
             <li>
