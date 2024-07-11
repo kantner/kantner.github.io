@@ -27,7 +27,7 @@ accent_image: /assets/img/background/bluemountains.jpg
 
             <li>
             <i>Wiener-Filter Enhanced Estimation of Intrinsic Laser Linewidth From Delayed Self-Heterodyne Beat Note Measurements</i><br />
-            Conference on Lasers and Electro-Optics (CLEO)/Europe - European Quantum Electronics Conference (EQEC) 2023<br />
+            Conference on Lasers and Electro-Optics (CLEO)/ European Quantum Electronics Conference (EQEC) 2023<br />
             Munich (DE), 26 June 2023
             </li>
 
