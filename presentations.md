@@ -13,6 +13,11 @@ accent_image: /assets/img/background/bluemountains.jpg
 ## Talks
 
    <ul>
+            <li>
+            <i>Conveyor-Mode Electron Shuttling in a Si/SiGe Quantum Bus: Modeling, Simulation, Optimization</i> (invited)<br />
+            Focus Workshop on Theory of Spin-Qubit Shuttling<br />
+            RWTH Aachen (DE), 18 September 2024
+            </li>
 
             <li>
             <i>Conveyor-Mode Electron Shuttling in a Si/SiGe Quantum Bus: Modeling, Simulation and Optimal Control</i><br />

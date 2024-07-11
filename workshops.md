@@ -66,9 +66,9 @@ accent_image: /assets/img/background/bagan.jpg
   Weierstrass Institute Berlin (online), 16&ndash;18 June 2021
   </li>
 
-  <li><a href="https://www.wias-berlin.de/intern/staff/WIASday2021/">WIAS-Day 2021</a><br />
+  <li><a href="https://www.wias-berlin.de/intern/staff/WIASday2021/">WIAS-Days 2021</a><br />
   with C.&nbsp;Bayer and M.&nbsp;Eigel<br />
-  Weierstrass Institute Berlin, online conference on Gathertown and Zoom, 22 February 2021
+  Weierstrass Institute Berlin, online conference, 22 February 2021
   </li>
 
 </ul>
