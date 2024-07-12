@@ -169,7 +169,7 @@ accent_image: /assets/img/background/bromo.jpg
 		Research" (2020)</li>
 	<li>NUSOD Best Paper (2017)</li>
 	<li>NUSOD Top-10 Paper (2015, 2016, 2019, 2022, 2023)</li>
-	<li>EU Cost Action Travel Award (2016)</li>
+	<li>EU Cost Action <i>MultiScaleSolar</i> Travel Award for participation EURO-TMCS II Conference (2016)</li>
 	<li><a href="https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis/" target="_blank">Abiturpreis</a> of the German
 		Physical Society (2006)</li>
 </ul>
