@@ -161,9 +161,9 @@ accent_image: /assets/img/background/bromo.jpg
 ## Awards
 
 <ul>
-	<li>Selected participant of the <a href="https://www.lindau-nobel.org/" target="_blank">73rd Lindau Nobel Laureate Meeting</a>
+	<li><a href="https://www.lindau-nobel.org/wp-content/uploads/2023/07/Selection-Criteria-Physics-2024.pdf" target="_blank">Selected participant</a> of the <a href="https://www.mediatheque.lindau-nobel.org/meetings/2024" target="_blank">73rd Lindau Nobel Laureate Meeting</a>
 		(Physics, 2024)</li>
-	<li>Selected participant of the <a href="https://www.lindau-nobel.org/" target="_blank">70th Lindau Nobel Laureate Meeting</a>
+	<li>Selected participant of the <a href="https://www.mediatheque.lindau-nobel.org/meetings/2021" target="_blank">70th Lindau Nobel Laureate Meeting</a>
 		(Interdisciplinary, 2021, online)</li>
 	<li><a href="https://www.springer.com/gp/book/9783030395421" target="_blank">Springer Theses Award</a> for "Outstanding PhD
 		Research" (2020)</li>
