@@ -162,11 +162,11 @@ accent_image: /assets/img/background/bromo.jpg
 
 <ul>
 	<li><a href="https://www.lindau-nobel.org/wp-content/uploads/2023/07/Selection-Criteria-Physics-2024.pdf" target="_blank">Selected participant</a> of the <a href="https://www.mediatheque.lindau-nobel.org/meetings/2024" target="_blank">73rd Lindau Nobel Laureate Meeting</a>
-		(Physics, 2024)</li>
+		(Physics, 2024)</li>, nominated by the Leibniz Association
 	<li>Selected participant of the <a href="https://www.mediatheque.lindau-nobel.org/meetings/2021" target="_blank">70th Lindau Nobel Laureate Meeting</a>
-		(Interdisciplinary, 2021, online)</li>
+		(Interdisciplinary, 2021, online), nominated by the Leibniz Association</li>
 	<li><a href="https://www.springer.com/gp/book/9783030395421" target="_blank">Springer Theses Award</a> for "Outstanding PhD
-		Research" (2020)</li>
+		Research" (2020), nominated by the Technical University of Berlin</li>
 	<li>NUSOD Best Paper (2017)</li>
 	<li>NUSOD Top-10 Paper (2015, 2016, 2019, 2022, 2023)</li>
 	<li>EU Cost Action <i>MultiScaleSolar</i> Travel Award for participation EURO-TMCS II Conference (2016)</li>
