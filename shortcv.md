@@ -82,7 +82,7 @@ accent_image: /assets/img/background/bromo.jpg
 	<tr>
 		<td>01/2019 &ndash; 12/2020</td>
 		<td>Post-Doc Reseacher at WIAS (Research Group Laser Dynamics) 
-        funded by the project AA2-3 <i>Quantum-Classical Simulation of Quantum Dot Nanolasers</i> within the Cluster of Excellence <a href="http://www.mathplus.de" target="_blank">MATH+</a> (Head: U.&nbsp;Bandelow)
+        funded by the project AA2-3 <a href="https://mathplus.de/research-2/application-areas/aa2-nano-quantum-technologies/aa2-3/" target="_blank"><i>Quantum-Classical Simulation of Quantum Dot Nanolasers</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de" target="_blank">MATH+</a> (Head: U.&nbsp;Bandelow)
 		<!--<br />
 		<img src="/assets/img/logos/mathplus.svg" class="logo"/>
 		<img src="/assets/img/logos/wias.svg" class="logo"/>
@@ -164,7 +164,7 @@ accent_image: /assets/img/background/bromo.jpg
 	<li>Selected participant of the <a href="https://www.lindau-nobel.org/" target="_blank">73rd Lindau Nobel Laureate Meeting</a>
 		(Physics, 2024)</li>
 	<li>Selected participant of the <a href="https://www.lindau-nobel.org/" target="_blank">70th Lindau Nobel Laureate Meeting</a>
-		(Interdisciplinary, 2021)</li>
+		(Interdisciplinary, 2021, online)</li>
 	<li><a href="https://www.springer.com/gp/book/9783030395421" target="_blank">Springer Theses Award</a> for "Outstanding PhD
 		Research" (2020)</li>
 	<li>NUSOD Best Paper (2017)</li>
