@@ -14,10 +14,6 @@ accent_image: /assets/img/background/bagan.jpg
 ## Upcoming Events
 
 <ul>
-  <li><a href="https://www.wias-berlin.de/workshops/amasis2024/">AMaSiS 2024: Applied Mathematics and Simulation for Semiconductor Devices</a><br />
-  with P.&nbsp;Farrell, A.&nbsp;Glitzky, M.&nbsp;Liero, M.&nbsp;O'Donovan and J.&nbsp;Weinbub<br />
-  Weierstrass Institute Berlin, 10&ndash;13 September 2024
-  </li>
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/">Thematic Einstein Semester: Mathematics for Quantum Technologies</a><br />
   with U.&nbsp;Bandelow, F.&nbsp;Binkowski, S.&nbsp;Burger, J.&nbsp;Eisert, P.&nbsp;Gel&szlig;, A.&nbsp;Pappa, C.&nbsp;P.&nbsp;Koch, T.&nbsp;Koprucki and N.&nbsp;Walk<br />
   Cluster of Excellence MATH+ and Einstein Foundation Berlin, Summer Semester 2024
@@ -33,7 +29,10 @@ accent_image: /assets/img/background/bagan.jpg
 ## Past Events
 
 <ul>
-
+  <li><a href="https://www.wias-berlin.de/workshops/amasis2024/">AMaSiS 2024: Applied Mathematics and Simulation for Semiconductor Devices</a><br />
+  with P.&nbsp;Farrell, A.&nbsp;Glitzky, M.&nbsp;Liero, M.&nbsp;O'Donovan and J.&nbsp;Weinbub<br />
+  Weierstrass Institute Berlin, 10&ndash;13 September 2024
+  </li>
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop/">Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies</a><br />
   with P.&nbsp;Gel&szlig;, T.&nbsp;Breiten and C.&nbsp;P.&nbsp;Koch<br />
   Free University of Berlin and Zuse Institute Berlin, 21&ndash;24 May 2024
