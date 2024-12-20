@@ -14,6 +14,12 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 <ul>
     <li>
+    A.&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
+    Theory of Valley-Splitting in Si/SiGe Spin-Qubits: Interplay of Strain, Resonances and Random Alloy Disorder
+    <i>WIAS Preprint</i> <b>3158</b> (2024)<br />              
+    <a href="http://dx.doi.org/10.20347/WIAS.PREPRINT.3158" target="_blank">DOI: 10.20347/WIAS.PREPRINT.3158</a><br >
+    </li>  
+    <li>
     L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
     Frequency Noise Characterization of Narrow-Linewidth Lasers: A Bayesian Approach.
     <i>IEEE Photonics J.</i> <b>16</b>(3), 0601407 (2024)<br />              
