@@ -15,7 +15,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
 <ul>
     <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
-    Theory of Valley-Splitting in Si/SiGe Spin-Qubits: Interplay of Strain, Resonances and Random Alloy Disorder
+    Theory of Valley-Splitting in Si/SiGe Spin-Qubits: Interplay of Strain, Resonances and Random Alloy Disorder.
     <i>arXiv:2412.20618</i> (2024)<br />              
     <a href="http://dx.doi.org/10.48550/arXiv.2412.20618" target="_blank">DOI: 10.48550/arXiv.2412.20618</a><br >
     </li>  
@@ -31,7 +31,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
     In: <i>Advances in Nonlinear Dynamics and Control of Mechanical and Physical Systems</i>,
     Ed.: M. Belhaq.
     Springer Proceedings in Physics, Vol. 301, pp. 269&ndash;279, Springer, Singapore (2024)<br/>
-    <a href="https://doi.org/10.1007/978-981-99-7958-5_21" target="_blank">DOI: 10.1007/978-981-99-7958-5_21</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2305.07380" target="_blank">DOI: 10.48550/arXiv.2305.07380</a>)
+    <a href="https://doi.org/10.1007/978-981-99-7958-5_21" target="_blank">DOI: 10.1007/978-981-99-7958-5_21</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2305.07380" target="_blank">arXiv.2305.07380</a>)
     </li>      
     <li>
     L.&nbsp;Ermoneit, B.&nbsp;Schmidt, T.&nbsp;Koprucki, J.&nbsp;Fuhrmann, T.&nbsp;Breiten, A.&nbsp;Sala, N.&nbsp;Ciroth, R.&nbsp;Xue, L.&nbsp;R.&nbsp;Schreiber and M.&nbsp;Kantner: 
@@ -43,7 +43,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
     M.&nbsp;Kantner and L.&nbsp;Mertensk&ouml;tter: 
     Accurate evaluation of self-heterodyne laser linewidth measurements using Wiener filters.
     <i>Opt. Express</i> <b>31</b>, 15994&ndash;16009 (2023)<br />
-    <a href="http://dx.doi.org/10.1364/OE.485866" target="_blank">DOI: 10.1364/OE.485866</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2301.10645" target="_blank">DOI: 10.48550/arXiv.2301.10645</a>)
+    <a href="http://dx.doi.org/10.1364/OE.485866" target="_blank">DOI: 10.1364/OE.485866</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2301.10645" target="_blank">arXiv.2301.10645</a>)
     </li>
     <li>
     M.&nbsp;Heida, M.&nbsp;Kantner and A.&nbsp;Stephan: 
