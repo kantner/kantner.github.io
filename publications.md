@@ -180,6 +180,14 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 <ul>
 	<li>
+  L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner:
+  Bayesian Estimation of Frequency Noise in Narrow-Linewidth Lasers.
+  <i>Proc. of the Conference on Lasers and Electro-Optics (CLEO: Applications and Technology 2024)</i>, JTu2A.45, 
+  Charlotte (NC), USA, 5&ndash;10 May 2024<br />  
+  <a href="http://dx.doi.org/10.1364/CLEO_AT.2024.JTu2A.45">DOI: 10.1364/CLEO_AT.2024.JTu2A.45</a>            
+  </li>
+  
+  <li>
   M.&nbsp;Kantner and L.&nbsp;Mertensk&ouml;tter:
   Estimation of Frequency Noise Characteristics and Data-Driven Modeling of Narrow-Linewidth Semiconductor Lasers.
   <i>Proc. of the International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2023)</i>, pp. 55&ndash;56, Eds.: P.&nbsp;Bardella, A.&nbsp;Tibaldi, 
