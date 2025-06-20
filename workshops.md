@@ -13,12 +13,7 @@ accent_image: /assets/img/background/bagan.jpg
 
 ## Upcoming Events
 
-<ul>
-  <li><a href="https://www.wias-berlin.de/workshops/NDSL25/">NDSL 2025: Nonlinear Dynamics in Semiconductor Lasers</a><br />
-  with E.&nbsp;Kuhn, M.&nbsp;Radziunas and A.&nbsp;G.&nbsp;Vladimirov<br />
-  Weierstrass Institute Berlin, 16&ndash;18 June 2025
-  </li>
-</ul>
+<p>Nothing planned at the moment.</p>
 
 
 
@@ -26,6 +21,11 @@ accent_image: /assets/img/background/bagan.jpg
 ## Past Events
 
 <ul>
+  <li><a href="https://www.wias-berlin.de/workshops/NDSL25/">NDSL 2025: Nonlinear Dynamics in Semiconductor Lasers</a><br />
+  with E.&nbsp;Kuhn, M.&nbsp;Radziunas and A.&nbsp;G.&nbsp;Vladimirov<br />
+  Weierstrass Institute Berlin, 16&ndash;18 June 2025
+  </li>
+
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/">Thematic Einstein Semester: Mathematics for Quantum Technologies</a><br />
   with U.&nbsp;Bandelow, F.&nbsp;Binkowski, S.&nbsp;Burger, J.&nbsp;Eisert, P.&nbsp;Gel&szlig;, A.&nbsp;Pappa, C.&nbsp;P.&nbsp;Koch, T.&nbsp;Koprucki and N.&nbsp;Walk<br />
   Cluster of Excellence MATH+ and Einstein Foundation Berlin, Summer Semester 2024
