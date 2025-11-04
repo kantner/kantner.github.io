@@ -50,7 +50,7 @@ accent_image: /assets/img/background/bromo.jpg
 		</td>
 	</tr>
 	<tr>
-		<td>since 01/2022</td>
+		<td>01/2022-12/2024</td>
 		<td>Principal Investigator of the project AA2-13 EXT <a href="https://mathplus.de/research-2/application-areas/aa2-materials-light-devices/aa2-13/" target="_blank"><i>Data-Driven Stochastic Modeling of Semiconductor Lasers</i></a> within the Cluster of Excellence <a href="http://www.mathplus.de" target="_blank">MATH+</a> together with U.&nbsp;Bandelow (WIAS), W.&nbsp;Stannat (TU Berlin) and H.&nbsp;Wenzel (FBH)
 		<!--<br />
 		<img src="/assets/img/logos/mathplus.svg" class="logo"/>

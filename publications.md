@@ -180,6 +180,13 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 <ul>
 	<li>
+  A&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
+  Epitaxial Profile Optimization for Valley Splitting Enhancement in Si/Sige Spin-Qubits.
+  <i>Proc. of International Conference on Simulation of Semiconductor Processes and Devices (SISPAD 2025)</i>, 
+  Grenoble, France, 24&ndash;26 September 2025<br />  
+  <a href="http://dx.doi.org/10.1109/SISPAD66650.2025.11185961">DOI: 10.1109/SISPAD66650.2025.11185961</a>            
+  </li>
+  	<li>
   L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner:
   Bayesian Estimation of Frequency Noise in Narrow-Linewidth Lasers.
   <i>Proc. of the Conference on Lasers and Electro-Optics (CLEO: Applications and Technology 2024)</i>, JTu2A.45, 
