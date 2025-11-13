@@ -16,8 +16,8 @@ accent_image: /assets/img/background/grandcanyon.jpg
     <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
     Theory of Valley-Splitting in Si/SiGe Spin-Qubits: Interplay of Strain, Resonances and Random Alloy Disorder.
-    <i>arXiv:2412.20618</i> (2024)<br />              
-    <a href="http://dx.doi.org/10.48550/arXiv.2412.20618" target="_blank">DOI: 10.48550/arXiv.2412.20618</a><br >
+    <i>Phys. Rev. B</i> <b>112</b>, 115303 (2025)<br />
+    <a href="https://doi.org/10.1103/4sdz-f9cr" target="_blank">DOI: 10.1103/4sdz-f9cr</a> (preprint: <a href="http://dx.doi.org/10.48550/arXiv.2412.20618" target="_blank">arXiv.2412.20618</a>)
     </li>  
     <li>
     L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner: 
