@@ -13,6 +13,12 @@ accent_image: /assets/img/background/grandcanyon.jpg
 ## Journal Articles
 
 <ul>
+  <li>
+    N.&nbsp;Ciroth, A.&nbsp;Sala, R.&nbsp;Xue, L.&nbsp;Ermoneit, T.&nbsp;Koprucki, M.&nbsp;Kantner and L.&nbsp;R.&nbsp;Schreiber:
+    Numerical simulation of coherent spin-shuttling in a QuBus with charged defects.
+    <i>arXiv:2512.03588</i> (2025)<br />
+    <a href="https://doi.org/10.48550/arXiv.2512.03588" target="_blank">DOI: 10.48550/arXiv.2512.03588</a>
+    </li>
     <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
     Theory of Valley-Splitting in Si/SiGe Spin-Qubits: Interplay of Strain, Resonances and Random Alloy Disorder.
