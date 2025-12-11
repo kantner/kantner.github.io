@@ -84,8 +84,10 @@ accent_image: /assets/img/background/kyoto.jpg
 * Member of the School of Nanophotonics (SFB 787 Graduate School, 2013 &ndash; 2018)
 * PhD-representative of the WIAS (2016 &ndash; 2018) and co-organizer of the WIAS PhD-Seminar
 
-<!--
 ## Academic Genealogy
+Here's [my academic genealogy tree](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316825) in the Mathematics Genealogy Project.
 
-To Do
--->
+My Erdös-Number is 4.
+
+My Einstein-Number is 5.
+
