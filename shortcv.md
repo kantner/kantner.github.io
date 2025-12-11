@@ -33,7 +33,7 @@ accent_image: /assets/img/background/bromo.jpg
 	</tr>
 	<tr>
 		<td>from 01/2026</td>
-		<td>Scientist in Charge for the Application Area <i>Technology</i> of the Cluster of Excellence <a href="http://www.mathplus.de" target="_blank">MATH+</a> together with M.&nbsp;Hinterm&uuml;ller (WIAS, HU Berlin) and B.&nbsp;Zwicknagl (HU Berlin)
+		<td>Scientist in Charge for the Application Area <i>Technology</i> of the Cluster of Excellence <a href="http://www.mathplus.de" target="_blank">MATH+</a> (second funding period), together with M.&nbsp;Hinterm&uuml;ller (WIAS, HU Berlin) and B.&nbsp;Zwicknagl (HU Berlin)
 		</td>
 	</tr>		
 	<tr>
