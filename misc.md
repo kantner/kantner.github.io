@@ -87,7 +87,8 @@ accent_image: /assets/img/background/kyoto.jpg
 ## Academic Genealogy
 Here's [my academic genealogy tree](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316825) in the Mathematics Genealogy Project.
 
-My Erdös-Number is 4.
+My <b>Einstein number</b> is 5:
+M.K. - Alexander Mielke - Eric Anders Carlen - Joel Louis Lebowitz - Peter Gabriel Bergmann - Albert Einstein
 
-My Einstein-Number is 5.
-
+My <b>Erd&#337;s number</b> is 4:
+M.K. - Alexander Mielke - Messoud A. Efendiev - Vijayakumar Pedaprolu Murty - Paul Erd&#337;s
