@@ -32,6 +32,11 @@ accent_image: /assets/img/background/bromo.jpg
 		<td><b>Position</b></td>
 	</tr>
 	<tr>
+		<td>from 01/2026</td>
+		<td>Principal Investigator of the DFG project KA 6524/2-1 <a href="#" target="_blank"><i>Lateral Current Injection Membrane DFB Lasers</i></a> together with M.&nbsp;Schell (Fraunhofer HHI)
+		</td>
+	</tr>	
+	<tr>
 		<td>since 04/2023</td>
 		<td>Head of the WIAS Focus-Platform <a href="https://www.wias-berlin.de/research/fps/fp2" target="_blank"><i>Simulation of Semiconductor Devices for Quantum Technologies</i> (SemQuTech)</a> together with T.&nbsp;Koprucki (WIAS)
 		<!--<br />
@@ -167,9 +172,9 @@ accent_image: /assets/img/background/bromo.jpg
 		(Interdisciplinary, 2021, online), nominated by the Leibniz Association</li>
 	<li><a href="https://www.springer.com/gp/book/9783030395421" target="_blank">Springer Theses Award</a> for "Outstanding PhD
 		Research" (2020), nominated by the Technical University of Berlin</li>
-	<li>NUSOD Best Paper (2017)</li>
+	<li>NUSOD Best Paper (2017, Conference on Numerical Simulation of Optoelectronic Devices)</li>
 	<li>NUSOD Top-10 Paper (2015, 2016, 2019, 2022, 2023)</li>
-	<li>EU Cost Action <i>MultiScaleSolar</i> Travel Award for participation EURO-TMCS II Conference (2016)</li>
+	<li>EU Cost Action <i>MultiScaleSolar</i> travel award for participation in the EURO-TMCS II conference (2016)</li>
 	<li><a href="https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis/" target="_blank">Abiturpreis</a> of the German
 		Physical Society (2006)</li>
 </ul>

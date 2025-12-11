@@ -58,6 +58,7 @@ accent_image: /assets/img/background/kyoto.jpg
 
 ## Reviewer for Scientific Journals
 
+* Nature Communications
 * Physical Review Letters
 * Physical Review E
 * Optics Letters
@@ -67,6 +68,8 @@ accent_image: /assets/img/background/kyoto.jpg
 * Springer Optical and Quantum Electronics
 * MDPI Applied Sciences
 
+## Reviewer for Research Projects
+* Deutsche Forschungsgemeinschaft (German Research Foundation, DFG)
 
 ## Research Visits
 
