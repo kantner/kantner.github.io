@@ -38,7 +38,7 @@ accent_image: /assets/img/background/bromo.jpg
 	</tr>		
 	<tr>
 		<td>from 01/2026</td>
-		<td>Principal Investigator of the DFG project KA 6524/2-1 <a href="#" target="_blank"><i>Lateral Current Injection Membrane DFB Lasers</i></a> together with M.&nbsp;Schell (Fraunhofer HHI)
+		<td>Principal Investigator of the DFG project <a href="https://gepris.dfg.de/gepris/projekt/567090370?language=en" target="_blank"><i>Lateral Current Injection Membrane DFB Lasers</i></a> together with M.&nbsp;Schell (Fraunhofer HHI)
 		</td>
 	</tr>	
 	<tr>

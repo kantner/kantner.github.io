@@ -22,7 +22,7 @@ accent_image: /assets/img/background/taipeh.jpg
 ## Running Projects
 
 #### DFG Project
-Principal investigator (together with M. Schell) of the project KA 6524/2-1 [Lateral Current Injection Membrane DFB Lasers](#). Runtime: 01/2026 - 12/2028.
+Principal investigator (together with M. Schell) of the DFG project [Lateral Current Injection Membrane DFB Lasers](https://gepris.dfg.de/gepris/projekt/567090370?language=en). Runtime: 01/2026 - 12/2028.
 
 
 #### WIAS Focus Platform SemQuTech
