@@ -26,7 +26,7 @@ Principal investigator (together with M. Schell) of the DFG project [Lateral Cur
 
 
 #### WIAS Focus Platform SemQuTech
-The focus platform [Simulation of Semiconductor Devices for Quantum Technologies (SemQuTech)](https://www.wias-berlin.de/research/fps/fp2/) started in April 2023. It bundles the activities of the WIAS research groups [Laser Dynamics](https://www.wias-berlin.de/research/rgs/fg2/) and [Partial Differential Equations](https://www.wias-berlin.de/research/rgs/fg1/) on modeling, simulation and optimization of semiconductor devices (*e.g.*, components for quantum computers, narrow-linewidth semiconductor lasers) for quantum technologies.
+Principal investigator of the WIAS focus platform [Simulation of Semiconductor Devices for Quantum Technologies (SemQuTech)](https://www.wias-berlin.de/research/fps/fp2/) started in April 2023. SemQuTech bundles the activities of the WIAS research groups [Laser Dynamics](https://www.wias-berlin.de/research/rgs/fg2/) and [Partial Differential Equations](https://www.wias-berlin.de/research/rgs/fg1/) on modeling, simulation and optimization of semiconductor devices (*e.g.*, components for quantum computers, narrow-linewidth semiconductor lasers) for quantum technologies.
 
 #### MATH+ AA2-17
 Principal investigator (together with T. Breiten and T. Koprucki) of the project AA2-17 [Coherent Transport of Semiconductor Spin-Qubits: Modeling, Simulation and Optimal Control](https://mathplus.de/research-2/application-areas/aa2-nano-quantum-technologies/aa2-17/) within the [Cluster of Excellence MATH+](https://mathplus.de). Runtime: 04/2023 - 03/2026.
