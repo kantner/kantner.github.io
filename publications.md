@@ -13,7 +13,13 @@ accent_image: /assets/img/background/grandcanyon.jpg
 ## Journal Articles
 
 <ul>
-  <li>
+    <li>
+    A.&nbsp;Thayil, L.&nbsp;Ermoneit, L.&nbsp;R.&nbsp;Schreiber, T.&nbsp;Koprucki and M.&nbsp;Kantner:
+    Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Silicon Qubits
+    <i>arXiv:2512.18064</i> (2025)<br />
+    <a href="https://doi.org/10.48550/arXiv.2512.18064" target="_blank">DOI: 10.48550/arXiv.2512.18064</a>
+    </li>
+    <li>
     N.&nbsp;Ciroth, A.&nbsp;Sala, R.&nbsp;Xue, L.&nbsp;Ermoneit, T.&nbsp;Koprucki, M.&nbsp;Kantner and L.&nbsp;R.&nbsp;Schreiber:
     Numerical simulation of coherent spin-shuttling in a QuBus with charged defects.
     <i>arXiv:2512.03588</i> (2025)<br />
