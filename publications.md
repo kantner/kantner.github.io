@@ -14,8 +14,14 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 <ul>
     <li>
+    L.&nbsp;Ermoneit, A.&nbsp;Thayil, T.&nbsp;Koprucki and M.&nbsp;Kantner:
+    Exact Multi-Valley Envelope Function Theory of Valley Splitting in Si/SiGe Nanostructures.
+    <i>arXiv:2602.14787</i> (2025)<br />
+    <a href="https://doi.org/10.48550/arXiv.2602.14787" target="_blank">DOI: 10.48550/arXiv.2602.14787</a>
+    </li>
+    <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit, L.&nbsp;R.&nbsp;Schreiber, T.&nbsp;Koprucki and M.&nbsp;Kantner:
-    Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Silicon Qubits
+    Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Silicon Qubits.
     <i>arXiv:2512.18064</i> (2025)<br />
     <a href="https://doi.org/10.48550/arXiv.2512.18064" target="_blank">DOI: 10.48550/arXiv.2512.18064</a>
     </li>
@@ -198,7 +204,8 @@ accent_image: /assets/img/background/grandcanyon.jpg
   Grenoble, France, 24&ndash;26 September 2025<br />  
   <a href="http://dx.doi.org/10.1109/SISPAD66650.2025.11185961">DOI: 10.1109/SISPAD66650.2025.11185961</a>            
   </li>
-  	<li>
+  
+  <li>
   L.&nbsp;Mertensk&ouml;tter and M.&nbsp;Kantner:
   Bayesian Estimation of Frequency Noise in Narrow-Linewidth Lasers.
   <i>Proc. of the Conference on Lasers and Electro-Optics (CLEO: Applications and Technology 2024)</i>, JTu2A.45, 
