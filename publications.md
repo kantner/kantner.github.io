@@ -16,7 +16,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
     <li>
     L.&nbsp;Ermoneit, A.&nbsp;Thayil, T.&nbsp;Koprucki and M.&nbsp;Kantner:
     Exact Multi-Valley Envelope Function Theory of Valley Splitting in Si/SiGe Nanostructures.
-    <i>arXiv:2602.14787</i> (2025)<br />
+    <i>arXiv:2602.14787</i> (2026)<br />
     <a href="https://doi.org/10.48550/arXiv.2602.14787" target="_blank">DOI: 10.48550/arXiv.2602.14787</a>
     </li>
     <li>
