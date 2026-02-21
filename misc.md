@@ -62,6 +62,7 @@ accent_image: /assets/img/background/kyoto.jpg
 * Physical Review Letters
 * Physical Review E
 * Optics Letters
+* Optics & Laser Technology
 * Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
 * Springer Journal of Computational Electronics
 * Springer Applied Physics B: Lasers & Optics
