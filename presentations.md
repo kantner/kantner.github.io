@@ -14,6 +14,12 @@ accent_image: /assets/img/background/bluemountains.jpg
 
    <ul>
             <li>
+            <i>Theory of Valley Splitting in Silicon Qubits: From Stochastic Modeling to Optimal Design for Scalable Quantum Computing</i><br />
+            Leibniz MMS Days 2026<br />
+            IHP Frankfurt/Oder (DE), 03 March 2026
+            </li>
+
+            <li>
             <i>Conveyor-Mode Electron Shuttling in a Si/SiGe Quantum Bus: Modeling, Simulation, Optimization</i> (invited)<br />
             Focus Workshop on Theory of Spin-Qubit Shuttling<br />
             Physikzentrum RWTH Aachen (DE), 18 September 2024

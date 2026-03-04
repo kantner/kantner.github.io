@@ -54,6 +54,8 @@ accent_image: /assets/img/background/kyoto.jpg
 	</tr>	
 </table>
 
+## Supervision
+* Dr. Lutz Mertenskötter (PhD student, 09/2025)
 
 
 ## Reviewer for Scientific Journals
@@ -62,7 +64,7 @@ accent_image: /assets/img/background/kyoto.jpg
 * Physical Review Letters
 * Physical Review E
 * Optics Letters
-* Optics & Laser Technology
+* Optics and Laser Technology
 * Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
 * Springer Journal of Computational Electronics
 * Springer Applied Physics B: Lasers & Optics
