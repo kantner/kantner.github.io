@@ -16,7 +16,7 @@ accent_image: /assets/img/background/bluemountains.jpg
             <li>
             <i>Theory of Valley Splitting in Silicon Qubits: From Stochastic Modeling to Optimal Design for Scalable Quantum Computing</i><br />
             Leibniz MMS Days 2026<br />
-            IHP Frankfurt/Oder (DE), 03 March 2026
+            IHP Frankfurt/Oder (DE), 3 March 2026
             </li>
 
             <li>
@@ -156,7 +156,7 @@ accent_image: /assets/img/background/bluemountains.jpg
 			      <i>Modeling and simulation of electrically driven quantum light emitters</i><br/>
       			Leibniz MMS Days 2018<br />
             IOM/TROPOS, Leipzig (DE), 28 February &ndash; 2 March 2018<br />
-						Video on <a href="https://doi.org/10.5446/35428">TIV AV-Portal</a>
+						Video on <a href="https://doi.org/10.5446/35428">TIB AV-Portal</a>
             </li>
 
             <li>
