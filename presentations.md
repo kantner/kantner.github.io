@@ -16,7 +16,7 @@ accent_image: /assets/img/background/bluemountains.jpg
             <li>
             <i>Free-Shape Optimization of Ge Profiles in Si/SiGe Quantum Wells for Large, Robust, and Tunable Valley Splitting</i><br />
             Silicon Quantum Electronics Workshop (SiQEW 2026)<br />
-            Incheon (South Korea), 31 August &endsh; 3 September 2026
+            Incheon (South Korea), 31 August &ndash; 3 September 2026
             </li>
             
             <li>
