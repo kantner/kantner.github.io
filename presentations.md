@@ -15,14 +15,14 @@ accent_image: /assets/img/background/bluemountains.jpg
    <ul>
             <li>
             <i>Free-Shape Optimization of Ge Profiles in Si/SiGe Quantum Wells for Large, Robust, and Tunable Valley Splitting</i><br />
-            Silicon Quantum Electronics Workshop (SiQEW 2026)<br />
-            Incheon (South Korea), 31 August &ndash; 3 September 2026
+            Silicon Quantum Electronics Workshop (SiQEW 2026) and International Conference on Spin Shuttling (ICOSS 2026)<br />
+            Incheon (South Korea), 31 August 2026
             </li>
             
             <li>
             <i>Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Spin Qubits</i> (invited)<br />
-            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)<br />
-            University College Cork (IR), 23 July 2026
+            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2026)<br />
+            University College Cork (IE), 23 July 2026
             </li>
             
             
@@ -113,13 +113,13 @@ accent_image: /assets/img/background/bluemountains.jpg
 
 						<li>
 						<i>Simulation of quantum light sources using the self-consistently coupled Schr&ouml;dinger-Poisson-Drift-Diffusion-Lindblad system</i><br />
-						International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)<br />
+						International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2019)<br />
             University of Ottawa, Ottawa (CA), 8&ndash;12 July 2019
             </li>
 
 						<li>
 						<i>A generalized Scharfetter&ndash;Gummel scheme for degenerate and non-isothermal semiconductors</i><br />
-						International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)<br />
+						International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2019)<br />
             University of Ottawa, Ottawa (CA), 8&ndash;12 July 2019
             </li>
 
@@ -143,7 +143,7 @@ accent_image: /assets/img/background/bluemountains.jpg
 
             <li>
             <i>Hybrid quantum-classical modeling of quantum dot based single-photon emitting diodes</i><br/>
-            Applied Mathematics and Simulation for Semiconductors (AMaSiS)<br />
+            Applied Mathematics and Simulation for Semiconductors (AMaSiS 2018)<br />
             WIAS, Berlin (DE), 8&ndash;10 October 2018
             </li>
 
@@ -155,7 +155,7 @@ accent_image: /assets/img/background/bluemountains.jpg
 
             <li>
             <i>Thermodynamically consistent modeling of electrically driven quantum dot based light emitters on a device scale</i><br/>
-            International Workshop on Nonlinear Dynamics in Semiconductor Lasers<br />
+            International Workshop on Nonlinear Dynamics in Semiconductor Lasers (NDSL 2018)<br />
             WIAS, Berlin (DE), 18&ndash;20 June 2018
             </li>
 
@@ -186,7 +186,7 @@ accent_image: /assets/img/background/bluemountains.jpg
 
             <li>
 	          <i>Simulation of quantum dot devices by coupling of quantum master equations and semi-classical transport theory</i><br />
-            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)<br />
+            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2017)<br />
             Denmark Technical University, Copenhagen (DK), 24&ndash;28 July 2017<br />
 						<a href="https://nusod.wordpress.com/2017/07/03/nusod-2017-preview-simulation-of-quantum-dot-devices-by-coupling-of-quantum-master-equations-and-semi-classical-transport-theory/">NUSOD-Blog: Top 10 Preview</a>
             </li>
@@ -212,12 +212,12 @@ accent_image: /assets/img/background/bluemountains.jpg
             <li>
             <i>Multi-scale modelling and simulation of single-photon sources on a device level</i><br />
             Euro-TMCS II: Theory, Modelling and Computational Methods for Semiconductors<br />
-            National Institute and University College Cork, Cork (IE), 7&ndash;9 December 2016
+            Tyndall National Institute and University College Cork, Cork (IE), 7&ndash;9 December 2016
             </li>
 
             <li>
             <i>Modeling and simulation of injection dynamics for quantum dot based single-photon sources</i><br />
-            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)<br />
+            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2016)<br />
             University of Sydney, Sydney (AU), 11&ndash;15 July 2016
             </li>
 
@@ -241,7 +241,7 @@ accent_image: /assets/img/background/bluemountains.jpg
 
             <li>
             <i>Modeling and numerical simulation of electrically pumped single-photon emitters</i><br />
-            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)<br />
+            International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2015)<br />
             National Taiwan University, Taipei (TW), 7&ndash;11 September 2015
             </li>
 
