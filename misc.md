@@ -61,9 +61,10 @@ accent_image: /assets/img/background/kyoto.jpg
 ## Reviewer for Scientific Journals
 
 * Nature Communications
-* Physical Review Letters
-* Physical Review E
 * PRX Quantum
+* Physical Review Letters
+* Physical Review B
+* Physical Review E
 * Optics Letters
 * Optics &amp; Laser Technology
 * Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences

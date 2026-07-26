@@ -32,7 +32,7 @@ redirect_from:
 	<tr>
 		<td width="180px">Address:</td>
 		<td>Weierstrass Institute for Applied Analysis and Stochastics<br />
-			Mohrenstr. 39<br />
+			Anton-Wilhelm-Amo-Str. 39<br />
 			10117 Berlin<br>
 			Germany
 		</td>
