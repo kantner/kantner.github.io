@@ -14,7 +14,7 @@ Mandatory information according to § 5 TMG Telemedia.
 
 ### Address
 Dr. Markus Kantner<br />
-Mohrenstr. 39<br />
+Anton-Wilhelm-Amo-Str. 39<br />
 10117 Berlin<br />
 Germany
 

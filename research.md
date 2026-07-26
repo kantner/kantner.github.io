@@ -42,16 +42,16 @@ Principal investigator (together with T. Breiten and T. Koprucki) of the project
 #### MATH+ AA2-13
 Principal investigator (together with U. Bandelow, W. Stannat and H. Wenzel) of the project AA2-13 [Data-Driven Stochastic Modeling of Semiconductor Lasers](https://mathplus.de/research-2/application-areas/aa2-nano-quantum-technologies/aa2-13/) within the [Cluster of Excellence MATH+](https://mathplus.de). Runtime: 01/2022 - 12/2024.
 
-##### R&amp;D Project SECMSSL
+#### R&amp;D Project SECMSSL
 Principal investigator (together with U. Bandelow and M. Radziunas) in R&amp;D project [Simulation of External Cavity and Multi-Section Semiconductor Lasers](https://www.wias-berlin.de/projects/SECMSSL/) funded by the [Ferdinand-Braun Institute](https://www.fbh-berlin.de). Runtime: 01/2021 &ndash; 07/2021.
 
-##### MATH+ AA2-3
+#### MATH+ AA2-3
 Post-Doc Researcher in the project AA2-3 [Quantum-Classical Simulation of Quantum Dot Nanolasers](https://mathplus.de/research-2/application-areas/aa2-nano-quantum-technologies/aa2-3/) within the [Cluster of Excellence MATH+](https://mathplus.de). Head: U.&nbsp;Bandelow (Weierstrass Institute, Research Group Laser Dynamics).
 
-##### SFB 787 - B4
+#### SFB 787 - B4
 PhD Student in project B4 [Multi-Dimensional Modeling and Simulation of Electrically Pumped Semiconductor-Based Emitters](https://www.wias-berlin.de/projects/sfb787-b4/index.jsp) within the Collaborative Research Center CRC 787 *Semiconductor Nanophotonics*.
 Heads: U.&nbsp;Bandelow, A.&nbsp;Mielke, T.&nbsp;Koprucki (Weierstrass Institute, Research Group Laser Dynamics), F.&nbsp;Schmidt (Zuse Institute Berlin, Computational Nano Optics). 
 
-##### SFB 910 - A3
+#### SFB 910 - A3
 Research student assistant in project A3 *Emergence and control of spatio-temporal dynamics in systems with delay* within the [Collaborative Research Center CRC 910 *Control of self-organizing nonlinear systems: Theoretical methods and concepts of application*](https://www.tu.berlin/itp/sfb910).
 Head: S.&nbsp;Yanchuk (Department of Mathematics, Applied Analysis, Humboldt University of Berlin).
