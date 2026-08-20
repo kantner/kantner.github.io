@@ -23,7 +23,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
     N.&nbsp;Ciroth, A.&nbsp;Sala, R.&nbsp;Xue, L.&nbsp;Ermoneit, T.&nbsp;Koprucki, M.&nbsp;Kantner and L.&nbsp;R.&nbsp;Schreiber:
     Numerical simulation of charged-defect-induced decoherence in conveyor-mode spin qubit shuttling in Si/SiGe.
     <i>Phys. Rev. B</i> <b>114</b>, 105305 (2026)<br />
-    <a href="" target="_blank">DOI: 10.48550/arXiv.2512.03588</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2512.03588" target="_blank">arXiv:2512.03588</a>)
+    <a href="https://doi.org/10.1103/styv-ypg9" target="_blank">DOI: 10.1103/styv-ypg9</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2512.03588" target="_blank">arXiv:2512.03588</a>)
     </li>    
     <li>
     L.&nbsp;Ermoneit, A.&nbsp;Thayil, T.&nbsp;Koprucki and M.&nbsp;Kantner:
