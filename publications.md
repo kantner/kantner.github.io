@@ -14,12 +14,6 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 <ul>
     <li>
-    L.&nbsp;Ermoneit, A.&nbsp;Thayil, T.&nbsp;Koprucki and M.&nbsp;Kantner:
-    Exact multivalley envelope function theory of valley splitting in Si/SiGe nanostructures.
-    <i>Phys. Rev. B</i> <b>113</b>, 245306 (2026)<br />
-    <a href="https://doi.org/10.1103/md2x-s44y" target="_blank">DOI: 10.1103/md2x-s44y</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2602.14787" target="_blank">arXiv.2602.14787</a>)
-    </li>
-    <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit, L.&nbsp;R.&nbsp;Schreiber, T.&nbsp;Koprucki and M.&nbsp;Kantner:
     Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Silicon Qubits.
     <i>arXiv:2512.18064</i> (2025)<br />
@@ -27,9 +21,15 @@ accent_image: /assets/img/background/grandcanyon.jpg
     </li>
     <li>
     N.&nbsp;Ciroth, A.&nbsp;Sala, R.&nbsp;Xue, L.&nbsp;Ermoneit, T.&nbsp;Koprucki, M.&nbsp;Kantner and L.&nbsp;R.&nbsp;Schreiber:
-    Numerical simulation of coherent spin-shuttling in a QuBus with charged defects.
-    <i>arXiv:2512.03588</i> (2025)<br />
-    <a href="https://doi.org/10.48550/arXiv.2512.03588" target="_blank">DOI: 10.48550/arXiv.2512.03588</a>
+    Numerical simulation of charged-defect-induced decoherence in conveyor-mode spin qubit shuttling in Si/SiGe.
+    <i>Phys. Rev. B</i> <b>114</b>, 105305 (2026)<br />
+    <a href="" target="_blank">DOI: 10.48550/arXiv.2512.03588</a> (open access, preprint: <a href="https://doi.org/10.48550/arXiv.2512.03588" target="_blank">arXiv:2512.03588</a>)
+    </li>    
+    <li>
+    L.&nbsp;Ermoneit, A.&nbsp;Thayil, T.&nbsp;Koprucki and M.&nbsp;Kantner:
+    Exact multivalley envelope function theory of valley splitting in Si/SiGe nanostructures.
+    <i>Phys. Rev. B</i> <b>113</b>, 245306 (2026)<br />
+    <a href="https://doi.org/10.1103/md2x-s44y" target="_blank">DOI: 10.1103/md2x-s44y</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2602.14787" target="_blank">arXiv.2602.14787</a>)
     </li>
     <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
@@ -197,6 +197,16 @@ accent_image: /assets/img/background/grandcanyon.jpg
 ## Conference Proceedings
 
 <ul>
+	<li>
+  Markus Kantner, Abel Thayil, Lasse Ermoneit and Thomas Koprucki:
+  Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Spin Qubits.
+  <i>Proc. of International Conference on Numerical Simulation of Optoelectronic Devices (SISPAD 2026)</i>, 
+  Cork, Ireland, 19&ndash;24 July 2026<br />  
+  <a href="https://www.nusod.net/wp-content/uploads/abstracts/2026/NUSOD26_ThC01.pdf">(invited paper)</a>            
+  </li>
+
+
+
 	<li>
   A&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
   Epitaxial Profile Optimization for Valley Splitting Enhancement in Si/Sige Spin-Qubits.

@@ -27,7 +27,6 @@ Principal investigator (together with M. Eigel and L. R. Schreiber) of the proje
 #### DFG Project 567090370
 Principal investigator (together with M. Schell) of the DFG project [Lateral Current Injection Membrane DFB Lasers](https://gepris.dfg.de/gepris/projekt/567090370). Runtime: 01/2026 - 12/2028.
 
-
 #### WIAS Focus Platform SemQuTech
 Principal investigator of the WIAS focus platform [Simulation of Semiconductor Devices for Quantum Technologies (SemQuTech)](https://www.wias-berlin.de/research/fps/fp2/) started in April 2023. SemQuTech bundles the activities of the WIAS research groups [Laser Dynamics](https://www.wias-berlin.de/research/rgs/fg2/) and [Partial Differential Equations](https://www.wias-berlin.de/research/rgs/fg1/) on modeling, simulation and optimization of semiconductor devices (*e.g.*, components for quantum computers, narrow-linewidth semiconductor lasers) for quantum technologies.
 

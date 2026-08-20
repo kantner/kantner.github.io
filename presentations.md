@@ -278,6 +278,11 @@ accent_image: /assets/img/background/bluemountains.jpg
 
 <ul>
   <li>
+  <i>Variational Optimization of Epitaxial Heterostructures for Large and Robust Valley Splitting in Si/SiGe Spin-Qubits</i><br />
+  Spin Qubit 7<br />
+  QuTech, Technical University of Delft (NL), 16 July 2026<br />
+  </li>
+  <li>
   <i>Optimal Control of a SiGe-Quantum Bus for Coherent Electron Shuttling in Scalable Quantum Computing Architectures</i><br />
   Silicon Quantum Electronics Workshop (SiQEW 2023)<br />
   Kyoto International Conference Center, Kyoto (JP), 31 October 2023<br />
