@@ -198,9 +198,9 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 <ul>
 	<li>
-  Markus Kantner, Abel Thayil, Lasse Ermoneit and Thomas Koprucki:
+  M.&nbsp;Kantner, A.&nbsp;Thayil, L.&nbsp;Ermoneit and T.&nbsp;Koprucki:
   Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Spin Qubits.
-  <i>Proc. of International Conference on Numerical Simulation of Optoelectronic Devices (SISPAD 2026)</i>, 
+  <i>Proc. of International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2026)</i>, 
   Cork, Ireland, 19&ndash;24 July 2026<br />  
   <a href="https://www.nusod.net/wp-content/uploads/abstracts/2026/NUSOD26_ThC01.pdf">(invited paper)</a>            
   </li>
