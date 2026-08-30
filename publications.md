@@ -16,7 +16,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
     <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit, L.&nbsp;R.&nbsp;Schreiber, T.&nbsp;Koprucki and M.&nbsp;Kantner:
     Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Silicon Qubits.
-    <i>arXiv:2512.18064</i> (2025)<br />
+    <i>arXiv:2512.18064</i> (2025, accepted for publication in Phys. Rev. Applied)<br />
     <a href="https://doi.org/10.48550/arXiv.2512.18064" target="_blank">DOI: 10.48550/arXiv.2512.18064</a>
     </li>
     <li>
