@@ -201,11 +201,20 @@ accent_image: /assets/img/background/grandcanyon.jpg
   M.&nbsp;Kantner, A.&nbsp;Thayil, L.&nbsp;Ermoneit and T.&nbsp;Koprucki:
   Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Spin Qubits.
   <i>Proc. of International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2026)</i>, 
+  pp. 112&ndash;113, Eds.: P.&nbsp;Bardella, C.&nbsp;Broderick and S.&nbsp;Schulz,  
   Cork, Ireland, 19&ndash;24 July 2026<br />  
-  <a href="https://www.nusod.net/wp-content/uploads/abstracts/2026/NUSOD26_ThC01.pdf">(invited paper)</a>            
+  <a href="https://doi.org/10.1109/NUSOD69851.2026.11687845">DOI: 10.1109/NUSOD69851.2026.11687845</a> (invited paper)
   </li>
 
 
+	<li>
+  E.&nbsp;Kuhn, D.&nbsp;Dolinina, M.&nbsp;Kantner, U.&nbsp;Bandelow and H.&nbsp;Wenzel:
+  Simulation of High-Power Diode Lasers with Stacked Multiple Active Regions and Tunnel Junctions.
+  <i>Proc. of International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD 2026)</i>, 
+  pp. 7&ndash;8, Eds.: P.&nbsp;Bardella, C.&nbsp;Broderick and S.&nbsp;Schulz,  
+  Cork, Ireland, 19&ndash;24 July 2026<br />  
+  <a href="https://doi.org/10.1109/NUSOD69851.2026.11687821">DOI: 10.1109/NUSOD69851.2026.11687821</a>
+  </li>
 
 	<li>
   A&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
