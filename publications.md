@@ -218,7 +218,7 @@ accent_image: /assets/img/background/grandcanyon.jpg
 
 	<li>
   A&nbsp;Thayil, L.&nbsp;Ermoneit and M.&nbsp;Kantner:
-  Epitaxial Profile Optimization for Valley Splitting Enhancement in Si/Sige Spin-Qubits.
+  Epitaxial Profile Optimization for Valley Splitting Enhancement in Si/SiGe Spin-Qubits.
   <i>Proc. of International Conference on Simulation of Semiconductor Processes and Devices (SISPAD 2025)</i>, 
   Grenoble, France, 24&ndash;26 September 2025<br />  
   <a href="http://dx.doi.org/10.1109/SISPAD66650.2025.11185961">DOI: 10.1109/SISPAD66650.2025.11185961</a>            
