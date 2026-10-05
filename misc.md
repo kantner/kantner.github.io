@@ -56,6 +56,7 @@ accent_image: /assets/img/background/kyoto.jpg
 
 ## Supervision
 * Dr. Lutz Mertenskötter (PhD student, graduation 09/2025)
+* Dr. Lasse Ermoneit (PhD student, graduation 10/2026)
 
 
 ## Reviewer for Scientific Journals

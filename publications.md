@@ -16,9 +16,9 @@ accent_image: /assets/img/background/grandcanyon.jpg
     <li>
     A.&nbsp;Thayil, L.&nbsp;Ermoneit, L.&nbsp;R.&nbsp;Schreiber, T.&nbsp;Koprucki and M.&nbsp;Kantner:
     Optimization of Si/SiGe Heterostructures for Large and Robust Valley Splitting in Silicon Qubits.
-    <i>arXiv:2512.18064</i> (2025, accepted for publication in Phys. Rev. Applied)<br />
-    <a href="https://doi.org/10.48550/arXiv.2512.18064" target="_blank">DOI: 10.48550/arXiv.2512.18064</a>
-    </li>
+    <i>Phys. Rev. Applied</i> <b>26</b>, 044012 (2026)<br />
+    <a href="https://doi.org/10.1103/pd5d-sddp" target="_blank">DOI: 10.1103/pd5d-sddp</a> (preprint: <a href="https://doi.org/10.48550/arXiv.2512.18064" target="_blank">arXiv:2512.18064</a>)
+    </li>    
     <li>
     N.&nbsp;Ciroth, A.&nbsp;Sala, R.&nbsp;Xue, L.&nbsp;Ermoneit, T.&nbsp;Koprucki, M.&nbsp;Kantner and L.&nbsp;R.&nbsp;Schreiber:
     Numerical simulation of charged-defect-induced decoherence in conveyor-mode spin qubit shuttling in Si/SiGe.
