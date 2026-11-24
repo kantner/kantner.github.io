@@ -13,8 +13,14 @@ accent_image: /assets/img/background/bagan.jpg
 
 ## Upcoming Events
 
-<p>Nothing planned at the moment.</p>
+<!--<p>Nothing planned at the moment.</p>-->
 
+  <li><a href="https://www.wias-berlin.de/workshops/amasis2027/">AMaSiS 2027: Applied Mathematics and Simulation for Semiconductor Devices</a><br />
+  with P.&nbsp;Farrell, C.&nbsp;L.&nbsp;Manganelli, M.&nbsp;Liero, M.&nbsp;O'Donovan,
+  N.&nbsp;Rotundo and A.&nbsp;Thayil<br />
+  Weierstrass Institute Berlin, 11&ndash;13 October 2027
+  </li>
+  
 
 
 
@@ -38,6 +44,7 @@ accent_image: /assets/img/background/bagan.jpg
   with P.&nbsp;Farrell, A.&nbsp;Glitzky, M.&nbsp;Liero, M.&nbsp;O'Donovan and J.&nbsp;Weinbub<br />
   Weierstrass Institute Berlin, 10&ndash;13 September 2024
   </li>
+
   <li><a href="https://mathplus.de/topic-development-lab/tes-summer-2024/qoc-workshop/">Quantum Optimal Control &mdash; From Mathematical Foundations to Quantum Technologies</a><br />
   with P.&nbsp;Gel&szlig;, T.&nbsp;Breiten and C.&nbsp;P.&nbsp;Koch<br />
   Free University of Berlin and Zuse Institute Berlin, 21&ndash;24 May 2024
