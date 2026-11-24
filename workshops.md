@@ -14,13 +14,13 @@ accent_image: /assets/img/background/bagan.jpg
 ## Upcoming Events
 
 <!--<p>Nothing planned at the moment.</p>-->
-
+<ul>
   <li><a href="https://www.wias-berlin.de/workshops/amasis2027/">AMaSiS 2027: Applied Mathematics and Simulation for Semiconductor Devices</a><br />
   with P.&nbsp;Farrell, C.&nbsp;L.&nbsp;Manganelli, M.&nbsp;Liero, M.&nbsp;O'Donovan,
   N.&nbsp;Rotundo and A.&nbsp;Thayil<br />
   Weierstrass Institute Berlin, 11&ndash;13 October 2027
   </li>
-  
+</ul>
 
 
 
