@@ -22,7 +22,7 @@ accent_image: /assets/img/background/taipeh.jpg
 ## Running Projects
 
 #### MATH+ AA-Tech-6
-Principal investigator (together with M. Eigel and L. R. Schreiber) of the project AA-Tech-6 [Bayesian Optimal Design for Auto-Calibration of Spin-Qubit Shuttling in Disordered Si/SiGe Quantum Processors](https://mathplus.de/) within the [Cluster of Excellence MATH+](https://mathplus.de). Runtime: 01/2027 - 12/2029.
+Principal investigator (together with M. Eigel and L. R. Schreiber) of the project AA-Tech-6 [Bayesian Optimal Design for Auto-Calibration of Spin-Qubit Shuttling in Disordered Si/SiGe Quantum Processors](https://mathplus.de/research-2/application-areas/aa2-nano-quantum-technologies/application-areas-aa-tech-6/) within the [Cluster of Excellence MATH+](https://mathplus.de). Runtime: 01/2027 - 12/2028.
 
 #### DFG Project 567090370
 Principal investigator (together with M. Schell) of the DFG project [Lateral Current Injection Membrane DFB Lasers](https://gepris.dfg.de/gepris/projekt/567090370). Runtime: 01/2026 - 12/2028.
